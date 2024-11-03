@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testify</title>
+    <link rel="icon" href="logosite.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Style de base */
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow-x: hidden;
+        }
+
+         /* Styles pour le bandeau latéral */
+         .sidebar {
+            width: 180px; /* Largeur du bandeau */
+            background-color: #f8f9fa; /* Couleur de fond */
+            padding: 20px; /* Espacement interne */
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1); /* Ombre pour le bandeau */
+            left: 0;
+            top: 100px;
+            position: fixed;
+            overflow-y: auto;
+            height: calc(100vh - 100px - 70px); /* Prend toute la hauteur de la fenêtre moins un espace de 40px en haut */
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+        }
+
+        .menu {
+            cursor: pointer; /* Change le curseur au survol */
+            padding: 12px 0; /* Espacement pour les éléments de menu */
+            border-bottom: 1px solid #ddd; /* Ligne de séparation */
+            color: #333;
+            font-size: 1.1em;
+            text-decoration: none;
+            width: 100%;
+            transition: background 0.3s;
+        }
+
+        .menu:hover {
+            background-color: #e9ecef; /* Couleur de fond au survol */
+            color: #007BFF; /* Texte bleu au survol */
+        }
+
+        .submenu {
+            display: none; /* Masquer les sous-menus par défaut */
+            padding-left: 20px; /* Indentation pour les sous-menus */
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .menu.active {
+            color: #007BFF;
+            font-weight: bold;
+        }
+
+        .active {
+            display: block;
+            margin-top: 10px;
+        }
+
+        .spacer {
+            flex-grow: 1; /* Pousse le menu Administration en bas */
+        }
+
+        .recap-item {
+        margin-bottom: 20px; /* Espace entre chaque item */
+        padding: 10px; /* Espace interne pour aérer le texte */
+        border-bottom: 1px solid #e0e0e0; /* Ligne de séparation */
+        }
+
+        /* Bandeau de présentation */
+        #header {
+            width: 100%;
+            background-color: #007BFF;
+            height: 80px;
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            color: white;
+            font-size: 24px;
+            padding: 10px 50px;
+            position: fixed;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        #header img {
+            height: 90px; /* Ajustez la hauteur selon vos besoins */
+            margin-right: 45px; /* Espacement à droite de l'image */
+            margin-left: 40px;
+        }
+
+        #header a {
+            margin-left: auto; /* Pousse le lien Contact à droite */
+            margin-left: 200px;
+            color: white; /* Couleur du lien */
+            text-decoration: none; /* Supprime le soulignement du lien */
+            font-size: 16px; /* Taille de la police du lien */
+            padding: 10px 45px;
+        }
+
+        main {
+            padding: 20px; /* Espacement intérieur */
+            background-color: #ffffff; /* Couleur de fond du contenu principal */
+            padding-bottom: 60px;
+            width: 100%;
+        }
+
+        /* Contenu principal */
+        #content {
+            max-width: 800px;
+            padding: 20px;
+            text-align: center;
+            margin-top: 150px;
+        }
+
+        /* bandeau du bas */
+        .footer {
+            background-color: #f1f1f1; /* Couleur de fond */
+            padding: 10px 0px;
+            text-align: left; /* Aligne le texte à droite */
+            position: fixed; /* Fixe le bandeau en bas */
+            bottom: 0; /* Aligne le bandeau en bas */
+            left: 0; /* Aligne le bandeau à gauche */
+            width: 100%; /* Prend toute la largeur */
+            box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); /* Ombre pour le bandeau */
+            font-size: 12px;
+            margin: 0;
+            margin-left: 20px;
+        }
+
+        /* Boutons principaux*/
+        .buttonprin {
+            background-color: #007BFF;
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 20px 0;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .buttonprin:hover {
+            background-color: #0372e9;
+            transform: translateY(-2px);
+        }
+
+        /* bouton des questions */
+        .buttonques {
+            background-color: #007BFF;
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 10px auto;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .buttonques:hover {
+            background-color: #0372e9;
+            transform: translateY(-2px);
+        }
+
+        /* bouton lors de l'affichage du score final */
+        .buttonscorepage {
+            background-color: #007BFF;
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 20px auto;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .buttonscorepage:hover {
+            background-color: #0372e9;
+            transform: translateY(-2px);
+        }
+
+        /* bouyon pour retourner en arrière */
+        .buttonretour {
+            background-color: #007BFF;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            font-size: 13px;
+            cursor: pointer;
+            margin: 10px 0;
+            border-radius: 5px;
+            float: right;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .buttonprin:hover {
+            background-color: #0372e9;
+            transform: translateY(-2px);
+        }
+
+        /* Boîte à question */
+        #question-box {
+            display: none;
+            text-align: center; /* Centre le texte à l'intérieur de la div */
+            width: 800px; /* Limite la largeur de la boîte */
+            padding: 15px; /* Ajoute un peu d'espace intérieur */
+            border: 1px solid #ccc; /* Ajoute une bordure autour de la boîte */
+            border-radius: 8px; /* Arrondit les coins de la boîte */
+            background-color: #f9f9f9; /* Couleur de fond pour la boîte */
+            word-wrap: break-word; /* Retour à la ligne automatique pour le texte long */
+            margin-top: 130px;
+        }
+
+        /* affichage de la correction */
+        #scorepage {
+            display: none; /* Force l'affichage */
+            margin-top: 120px;
+        }
+
+        #recapitulatif-container {
+        display:none;
+        margin: 20px auto; /* Centre le conteneur */
+        max-width: 800px; /* Largeur maximale */
+        padding: 20px; /* Espacement interne */
+        border: 1px solid #ccc; /* Bordure pour délimiter */
+        border-radius: 10px; /* Coins arrondis */
+        background-color: #f9f9f9; /* Couleur de fond légère */
+        font-family: Arial, sans-serif; /* Police de caractères */
+        }
+
+        #recapitulatif-container p {
+        margin: 15px 0; /* Espacement entre les paragraphes */
+        line-height: 1.5; /* Interligne pour une meilleure lisibilité */
+        }
+
+        strong {
+        color: #333; /* Couleur du texte en gras */
+    }
+
+        /*pour téléphone*/
+        @media (max-width: 600px) {
+        table {
+        width: 90%; /* Largeur du tableau sur mobile */
+            }
+        }
+
+    </style>
+
+    <script>
+        //aller sur la page classement
+        function classement() {
+            document.getElementById("nom-input").style.display = "none";
+            window.location.href = 'classementTOEIC.html';
+        }
+
+        // Fonction pour afficher/cacher le sous-menu
+        function toggleSubMenu(id) {
+            const submenu = document.getElementById(id);
+            submenu.classList.toggle("active");
+        }
+    </script>
+</head>
+<body>
+
+    <div id="header">
+        <img src="logosite.png" alt="Logo" />
+
+        <div style="margin-left: auto;">
+            <a href="contact.html">Contact</a>
+        </div>
+    </div>
+
+    <div class="sidebar">
+        <div class="menu" onclick="startaccueil()">Accueil</div>
+        <div class="menu" onclick="toggleSubMenu('qcmSubMenu')">QCM</div>
+        <div class="submenu" id="qcmSubMenu">
+            <div class="menu" onclick="startIRA()">QCM IRA</div>
+            <div class="menu" onclick="startTOEIC()">QCM Culture Générale</div>
+        </div>
+        <div class="spacer"></div>
+        <div class="menu" onclick="startadmin()">Administration</div>
+    </div>
+
+    <div id="content">
+        <h1>QCM de culture générale</h1>
+        <p style="text-align: justify; margin-left: 5px;">Le QCM comporte 20 questions tirées au hasard.<br><br> 
+            Vous avez 3 minutes secondes pour répondre à l'ensemble des questions. Le temps imparti est largement suffisant pour répondre à des questions basiques que vous devriez maîtriser sur le bout des doigts.<br><br>
+            Si votre performance le permet, vous aurez alors la possibilité d'entrer dans le classement.<br><br>
+            Chaque bonne réponse vous fait gagner 1000 points, chaque mauvaise réponse vous fait perdre 750 points. Pour pouvoir départager 2 concurrents qui obtiendraient le même nombre de bonnes réponses, vous obtiendrez 1 point par seconde restante (si vous arrivez à finir dans les temps).</p>
+        <button class="buttonprin" onclick="startQuiz()">Commencer le QCM</button>
+        <button class="buttonprin" onclick="classement()">Voir le classement</button>
+        <button class="buttonprin" onclick="menuprin()">Retourner à l'accueil</button>
+    </div>
+
+    <div class="footer">
+        © 2024 Testify. Tous droits réservés.
+    </div>
+
+
+    <div id="question-box">
+        <p id="question"><b>Question</b></p>
+        <button class="buttonques" onclick="submitAnswer('A')" id="answerA">Réponse A</button><br>
+        <button class="buttonques" onclick="submitAnswer('B')" id="answerB">Réponse B</button><br>
+        <button class="buttonques" onclick="submitAnswer('C')" id="answerC">Réponse C</button>
+        <p>Temps restant : <span id="time">180</span> secondes</p>
+        <button class="buttonretour" onclick="retour()">Retourner au menu principal</button>
+    </div>
+
+    <div id="message" style="margin-top: 10px; font-weight: bold;"></div>
+
+    <div id="scorepage">
+        <button class="buttonscorepage" onclick="resetScoreAndStartQuiz()">Refaire un QCM</button>
+        <button class="buttonscorepage" onclick="classement()">Voir le classement</button>
+        <button class="buttonscorepage" onclick="menuprin()">Retourner à l'accueil</button>
+    </div>
+
+    <div id="nom-input" style="display: none; border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 300px;">
+        <p style="font-size: 1.1em; color: #333; font-weight: bold; margin-bottom: 15px;">Félicitations ! Vous êtes dans le top 10.</p>
+        
+        <label for="nom" style="display: block; font-weight: bold; margin-bottom: 5px;">Entrez votre nom :</label>
+        <input type="text" id="nom" name="nom" placeholder="Votre nom" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 15px;">
+        
+        <button onclick="soumettreNom()" style="width: 100%; padding: 10px; background-color: #007BFF; color: white; border: none; border-radius: 4px; font-weight: bold; cursor: pointer; transition: background-color 0.3s;">
+            Valider
+        </button>
+    </div>
+
+    <div id="score"></div>
+        <main>
+            <div id="score-container" style="margin-bottom: 25px;">
+                <p id="score-message"></p>
+            </div>
+            <div id="recapitulatif-container" style="margin-left: 300px;"></div>
+        </main>
+
+
+    <script>
+        let tempsrestant = 0;
+        let questions = [];
+        let bonnerep = 0;
+        let mauvaiserep = 0;
+        let scorefin = 0;
+        let secondsLeft = 180;
+        let usedIndexes = new Set();
+        let timerInterval;
+        let recapitulatif = [];
+
+        // Charger les questions depuis le fichier JSON
+        fetch("questionTOEIC.json")
+            .then(response => response.json())
+            .then(data => {
+                questions = data;
+            });
+        
+
+        //Démarrage du QCM IRA
+        function startQuiz() {
+            resetQCMVariables();
+            afficherRecapitulatif("");
+            document.getElementById("scorepage").style.display = "none";
+            document.getElementById("content").style.display = "none";
+            document.getElementById("question-box").style.display = "block";
+            loadNextQuestion();
+            startTimer();
+        }
+
+
+        //Démarage du chrono
+        function startTimer() {
+            const timerElement = document.getElementById("time");
+            timerInterval = setInterval(() => {
+                secondsLeft--;
+                timerElement.textContent = secondsLeft;
+
+                if (secondsLeft <= 0) {
+                    clearInterval(timerInterval);
+                    endQuiz();
+                }
+            }, 1000);
+        }
+
+
+        //affichage des questions les unes après les autres
+        function loadNextQuestion() {
+            if (usedIndexes.size === questions.length || usedIndexes.size >= 20) {
+                endQuiz();
+                return;
+            }
+
+            let randomIndex;
+            do {
+                randomIndex = Math.floor(Math.random() * questions.length);
+            } while (usedIndexes.has(randomIndex));
+
+            usedIndexes.add(randomIndex);
+            const currentQuestion = questions[randomIndex];
+
+            document.getElementById("question").textContent = currentQuestion.question;
+            document.getElementById("answerA").textContent = currentQuestion.options.A;
+            document.getElementById("answerB").textContent = currentQuestion.options.B;
+            document.getElementById("answerC").textContent = currentQuestion.options.C;
+        }
+
+
+        //Comptabilisation de la bonne ou de la mauvaise réponse
+        function submitAnswer(choice) {
+            const currentQuestionIndex = [...usedIndexes].pop(); // Récupérer l'index de la question actuelle
+            const currentQuestion = questions[currentQuestionIndex];
+
+            let message
+
+            if (choice === currentQuestion.correct) {
+                message = "Bonne réponse !";
+                afficherMessage(message);
+                bonnerep++;
+            } else {
+                message = "Mauvaise réponse ! La bonne réponse était " + currentQuestion.options[currentQuestion.correct];
+                afficherMessage(message);
+                mauvaiserep++;
+            }
+
+            recapitulatif.push({
+                questions: currentQuestion.question, // Enregistrer le texte de la question
+                reponseUtilisateur: currentQuestion.options[choice], // Réponse choisie par l'utilisateur
+                message: message // Message indiquant si la réponse est bonne ou non
+            });
+
+            // Vérifiez si toutes les questions ont été posées ou si le temps est écoulé
+            if (usedIndexes.size === questions.length || secondsLeft <= 0) {
+                endQuiz();
+            } else {
+                loadNextQuestion();
+            }
+        }
+
+
+        //Affiche le message de la bonne ou mauvaise réponse
+        function afficherMessage(message) {
+            const messageDiv = document.getElementById("message");
+            messageDiv.textContent = message;
+
+            // Vérifier la première lettre du message et appliquer la couleur
+            if (message.charAt(0) === 'M') {
+                messageDiv.style.color = 'red';
+            } else if (message.charAt(0) === 'B') {
+                messageDiv.style.color = 'green';
+            } else {
+                messageDiv.style.color = 'black'; // Couleur par défaut si autre lettre
+            }
+
+            if (message === "") {
+                messageElement.style.display = "none"; // masque l'élément
+            }
+        }
+
+
+        //Fin du QCM
+        function endQuiz() {
+            tempsrestant = secondsLeft;
+            clearInterval(timerInterval);
+            document.getElementById("question-box").style.display = "none";
+            document.getElementById("content").style.display = "none";
+            document.getElementById("recapitulatif-container").style.display = "block";
+            
+            const scoreElement = document.getElementById("score");
+            const recapElement = document.getElementById("recap");
+            if (scoreElement) {
+                scorefin = (bonnerep * 1000) - (mauvaiserep * 750) + tempsrestant;
+                verifierClassement(scorefin);
+                scoreElement.innerHTML = `QCM terminé ! Vous avez ${bonnerep} bonne(s) réponse(s). Votre score final est de ${scorefin} point(s)`;
+                scoreElement.style.marginTop = "30px";
+                document.getElementById("scorepage").style.display = "block";
+                afficherRecapitulatif()
+            } else {
+                console.error("Élément #score introuvable.");
+            }
+
+            // Réinitialiser les variables pour un éventuel nouveau quiz
+            bonnerep = 0;
+            mauvaiserep = 0;
+            afficherMessage("");
+            usedIndexes.clear();
+            secondsLeft = 180;
+            console.log("QCM terminé. Score réinitialisé.");
+        }
+
+
+        //On vérifie si la personne fait un score du TOP 10 du classement
+        function verifierClassement(scorefin) {
+            // Charger ou initialiser le classement avec 10 entrées par défaut
+            let classementTOEIC = JSON.parse(localStorage.getItem("classementTOEIC")) || Array.from({ length: 10 }, () => ({ nom: "", score: 0 }));
+            
+            // Vérifie si le score est suffisant pour entrer dans le top 10
+            const minScore = classementTOEIC[9].score;
+            if (scorefin > minScore) {
+                document.getElementById("nom-input").style.display = "block";
+            }
+        }
+
+        function soumettreNom() {
+            const nomElement = document.getElementById("nom");
+            const nom = document.getElementById("nom").value;
+            if (nom) {
+            let classementTOEIC = JSON.parse(localStorage.getItem("classementTOEIC")) || Array.from({ length: 10 }, () => ({ nom: "", score: 0 }));
+            // Ajoute le nouveau score dans le classement
+            classementTOEIC.push({ nom: nom, score: scorefin });
+            // Trie le classement en ordre décroissant et garde les 10 meilleurs scores
+            classementTOEIC.sort((a, b) => b.score - a.score);
+            classementTOEIC = classementTOEIC.slice(0, 10);
+        
+            // Enregistre le classement mis à jour dans le localStorage
+            localStorage.setItem("classementTOEIC", JSON.stringify(classementTOEIC));
+
+            // Masque le champ de saisie après validation et réinitialise le champ
+            document.getElementById("nom-input").style.display = "none";
+            nomElement.value = "";
+
+            // Redirection vers la page de classement
+            window.location.href = 'classementTOEIC.html';
+            } else {
+            alert("Veuillez entrer un nom.");
+            }
+        }
+
+
+        //Affichage de la correction après la fin du QCM
+        function afficherRecapitulatif() {
+            const recapContainer = document.getElementById("recapitulatif-container");
+            recapContainer.innerHTML = ""; // Réinitialise le contenu pour éviter l'accumulation
+
+            recapitulatif.forEach((item, index) => {
+                const recapItem = document.createElement("p");
+                recapItem.classList.add("recap-item");
+
+                recapItem.innerHTML = `<strong>Question ${index + 1}:</strong> ${item.questions}<br><br>
+                                        <strong>Ta réponse :</strong> ${item.reponseUtilisateur}<br>
+                                        <strong>${item.message}</strong>`;
+                recapContainer.appendChild(recapItem);
+            });
+        }
+
+
+        //Si on clique sur refaire le QCM sur la page correction on arrive sur cette fonction
+        function resetScoreAndStartQuiz() {
+            document.getElementById("nom-input").style.display = "none";
+            document.getElementById("recapitulatif-container").style.display = "none";
+            const scoreElement = document.getElementById("score");
+
+            if (scoreElement) {
+                scoreElement.innerHTML = ""; // Vider le contenu de scoreElement
+            }
+            startQuiz();
+        }
+
+
+        //Puis sur celle là
+        function resetQCMVariables() {
+            bonnerep = 0;
+            mauvaiserep = 0;
+            scorefin = 0;
+            secondsLeft = 180; // Réinitialiser le temps
+            usedIndexes.clear(); // Réinitialiser les index utilisés
+            recapitulatif = []; // Réinitialiser le récapitulatif
+        }
+
+
+
+
+        //Différents boutons
+        function menuprin(){
+            document.getElementById("scorepage").style.display = "none";
+            document.getElementById("content").style.display = "none";
+            document.getElementById("question-box").style.display = "none";
+            document.getElementById("nom-input").style.display = "none";
+            document.getElementById("recapitulatif-container").style.display = "none";
+            window.location.href = 'index.html';
+        }
+
+        function startTOEIC(){
+            document.getElementById("recapitulatif-container").style.display = "none";
+            window.location.href = 'qcmTOEIC.html'; 
+        }
+
+        function startIRA(){
+            document.getElementById("recapitulatif-container").style.display = "none";
+            window.location.href = 'qcmIRA.html'; 
+        }
+
+        function startaccueil(){
+            document.getElementById("recapitulatif-container").style.display = "none";
+            window.location.href = 'index.html'
+        }
+  
+        function retour(){
+            clearInterval(timerInterval);
+            bonnerep = 0;
+            mauvaiserep = 0;
+            usedIndexes.clear();
+            secondsLeft = 350;
+            document.getElementById("question-box").style.display = "none";
+            document.getElementById("recapitulatif-container").style.display = "none";
+            document.getElementById("content").style.display = "block";
+            afficherMessage("");
+        }
+
+        function startadmin(){
+            document.getElementById("recapitulatif-container").style.display = "none";
+            window.location.href = 'connexion.html'; 
+        }
+
+    </script>
+</body>
+</html>
+

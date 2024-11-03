@@ -1,0 +1,453 @@
+[
+        {
+            "question": "Quel est le nom de l'œuvre qui a été le premier livre imprimé en Europe ?",
+            "options": {
+                "A": "La Divine Comédie",
+                "B": "La Bible de Gutenberg",
+                "C": "Les Noces de Figaro"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel était le nom de l'ancienne capitale de la Perse ?",
+            "options": {
+                "A": "Persépolis",
+                "B": "Babylone",
+                "C": "Suse"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle est la première nation à avoir accordé le droit de vote aux femmes ?",
+            "options": {
+                "A": "Nouvelle-Zélande",
+                "B": "Finlande",
+                "C": "Suisse"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Qui a formulé le principe d'incertitude en mécanique quantique ?",
+            "options": {
+                "A": "Niels Bohr",
+                "B": "Werner Heisenberg",
+                "C": "Max Planck"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel écrivain a inventé le genre littéraire du roman policier avec son œuvre \"Dupin\" ?",
+            "options": {
+                "A": "Agatha Christie",
+                "B": "Edgar Allan Poe",
+                "C": "Arthur Conan Doyle"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Qui est considéré comme le père de la sociologie ?",
+            "options": {
+                "A": "Karl Marx",
+                "B": "Auguste Comte",
+                "C": "Max Weber"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom de la célèbre théorie économique proposée par John Maynard Keynes ?",
+            "options": {
+                "A": "La théorie du ruissellement",
+                "B": "La théorie de la demande effective",
+                "C": "La théorie monétaire"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom du célèbre peintre néerlandais qui a vécu à l'époque de la Renaissance et a peint \"La ronde de nuit\" ?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Rembrandt van Rijn",
+                "C": "Johannes Vermeer"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom de la célèbre mosaïque byzantine située à Istanbul représentant le Christ ?",
+            "options": {
+                "A": "La mosaïque de Sainte-Sophie",
+                "B": "La mosaïque de Ravenne",
+                "C": "La mosaïque des dévotions"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle est la langue officielle de l'Éthiopie ?",
+            "options": {
+                "A": "Amharique",
+                "B": "Oromo",
+                "C": "Tigrinya"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Qui a été le dernier empereur romain d'Occident ?",
+            "options": {
+                "A": "Romulus Augustulus",
+                "B": "Néron",
+                "C": "Constantin XI"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le nom du premier homme à avoir effectué une promenade dans l'espace ?",
+            "options": {
+                "A": "Alexeï Leonov",
+                "B": "Yuri Gagarin",
+                "C": "Ed White"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le nom de la théorie selon laquelle l'univers est en expansion ?",
+            "options": {
+                "A": "Théorie du Big Bang",
+                "B": "Théorie de la relativité",
+                "C": "Théorie de la gravité"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le nom de l'écrivain qui a développé la théorie de la relativité générale ?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Albert Einstein",
+                "C": "Stephen Hawking"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom de la plus grande ville du monde par la population urbaine ?",
+            "options": {
+                "A": "Tokyo",
+                "B": "Delhi",
+                "C": "Shanghai"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Qui a découvert la pénicilline ?",
+            "options": {
+                "A": "Louis Pasteur",
+                "B": "Alexander Fleming",
+                "C": "Joseph Lister"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom de la première femme à avoir reçu un prix Nobel ?",
+            "options": {
+                "A": "Marie Curie",
+                "B": "Irène Joliot-Curie",
+                "C": "Rosalind Franklin"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel compositeur a écrit \"L'Opéra de quat'sous\" ?",
+            "options": {
+                "A": "Gioachino Rossini",
+                "B": "Bertolt Brecht",
+                "C": "Gustav Mahler"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel pays a inventé l'horloge à eau ?",
+            "options": {
+                "A": "Grèce",
+                "B": "Chine",
+                "C": "Égypte"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel écrivain est connu pour sa critique du colonialisme dans \"Les Années\" ?",
+            "options": {
+                "A": "Annie Ernaux",
+                "B": "Albert Camus",
+                "C": "James Baldwin"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le nom de l'élément chimique dont le symbole est Hg ?",
+            "options": {
+                "A": "Hydrogène",
+                "B": "Mercure",
+                "C": "Argent"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Qui a écrit la pièce \"La Tempête\" ?",
+            "options": {
+                "A": "Christopher Marlowe",
+                "B": "William Shakespeare",
+                "C": "Tennessee Williams"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom du mouvement artistique qui a précédé le surréalisme ?",
+            "options": {
+                "A": "Impressionnisme",
+                "B": "Dadaïsme",
+                "C": "Cubisme"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom de la plus grande forêt tropicale du monde ?",
+            "options": {
+                "A": "Forêt amazonienne",
+                "B": "Forêt de Bornéo",
+                "C": "Forêt de Taï"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Qui a écrit \"Le Prince\" ?",
+            "options": {
+                "A": "Thomas More",
+                "B": "Niccolò Machiavelli",
+                "C": "Jean-Jacques Rousseau"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel philosophe a écrit \"Critique de la raison pure\" ?",
+            "options": {
+                "A": "Immanuel Kant",
+                "B": "Georg Wilhelm Friedrich Hegel",
+                "C": "Friedrich Nietzsche"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le nom de la première femme à avoir remporté le prix Nobel de la paix en 1905 ?",
+            "options": {
+                "A": "Marie Curie",
+                "B": "Bertha Felicie Sophie von Suttner",
+                "C": "Jane Addams"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "Quel est le nom de la première cité-État connue dans l'histoire ?",
+            "options": {
+                "A": "Uruk",
+                "B": "Babylone",
+                "C": "Sumer"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel philosophe est souvent considéré comme le père de la logique formelle ?",
+            "options": {
+                "A": "Aristote",
+                "B": "Platon",
+                "C": "Socrate"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle est la langue officielle du Vatican ?",
+            "options": {
+                "A": "Latin",
+                "B": "Italien",
+                "C": "Espagnol"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel peintre est célèbre pour ses toiles représentant des nénuphars ?",
+            "options": {
+                "A": "Claude Monet",
+                "B": "Vincent van Gogh",
+                "C": "Pablo Picasso"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le titre du livre fondamental de Karl Marx publié en 1867 ?",
+            "options": {
+                "A": "Le Capital",
+                "B": "Manifeste du Parti communiste",
+                "C": "Critique de l'économie politique"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Qui a écrit la célèbre œuvre 'Les Fleurs du mal' ?",
+            "options": {
+                "A": "Charles Baudelaire",
+                "B": "Paul Verlaine",
+                "C": "Arthur Rimbaud"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "Quel scientifique a développé la théorie de la relativité ?",
+            "options": {
+                "A": "Albert Einstein",
+                "B": "Isaac Newton",
+                "C": "Niels Bohr"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle est la capitale de l'Islande ?",
+            "options": {
+                "A": "Reykjavik",
+                "B": "Oslo",
+                "C": "Copenhague"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel compositeur a écrit l'opéra 'Carmen' ?",
+            "options": {
+                "A": "Georges Bizet",
+                "B": "Giuseppe Verdi",
+                "C": "Richard Wagner"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "Quel est le pays d'origine de la civilisation de la vallée de l'Indus ?",
+            "options": {
+                "A": "Inde et Pakistan",
+                "B": "Bangladesh",
+                "C": "Népal"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Qui a écrit 'Les Misérables' ?",
+            "options": {
+                "A": "Victor Hugo",
+                "B": "Émile Zola",
+                "C": "Gustave Flaubert"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle est la plus grande lune de Saturne ?",
+            "options": {
+                "A": "Titan",
+                "B": "Rhea",
+                "C": "Iapetus"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom de la première femme à avoir voyagé dans l'espace ?",
+            "options": {
+                "A": "Valentina Terechkova",
+                "B": "Sally Ride",
+                "C": "Mae Jemison"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le nom de l'auteur de 'Don Quichotte' ?",
+            "options": {
+                "A": "Miguel de Cervantes",
+                "B": "Garcilaso de la Vega",
+                "C": "Lope de Vega"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel océan est le plus vaste ?",
+            "options": {
+                "A": "Océan Pacifique",
+                "B": "Océan Atlantique",
+                "C": "Océan Indien"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "Quel est le principal gaz à effet de serre produit par les activités humaines ?",
+            "options": {
+                "A": "Dioxyde de carbone (CO2)",
+                "B": "Méthane (CH4)",
+                "C": "Protoxyde d'azote (N2O)"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel roi est connu pour avoir été guillotiné pendant la Révolution française ?",
+            "options": {
+                "A": "Louis XVI",
+                "B": "Charles X",
+                "C": "Louis XVIII"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle est la principale langue parlée au Brésil ?",
+            "options": {
+                "A": "Portugais",
+                "B": "Espagnol",
+                "C": "Anglais"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "Qui a peint 'La Cène' ?",
+            "options": {
+                "A": "Léonard de Vinci",
+                "B": "Michel-Ange",
+                "C": "Raphaël"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quel est le nom du plus long fleuve d'Afrique ?",
+            "options": {
+                "A": "Nil",
+                "B": "Congo",
+                "C": "Zambèze"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle est la plus grande île du monde ?",
+            "options": {
+                "A": "Groenland",
+                "B": "Nouvelle-Guinée",
+                "C": "Borneo"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel physicien a formulé les lois du mouvement ?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Galileo Galilei",
+                "C": "James Clerk Maxwell"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+            "options": {
+                "A": "Neil Armstrong",
+                "B": "Buzz Aldrin",
+                "C": "Michael Collins"
+            },
+            "correct": "A"
+        }
+ 
+]

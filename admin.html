@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testify</title>
+    <link rel="icon" href="logosite.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+
+        /* Style de base */
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow-x: hidden;
+        }
+
+         /* Styles pour le bandeau latéral */
+         .sidebar {
+            width: 180px; /* Largeur du bandeau */
+            background-color: #f8f9fa; /* Couleur de fond */
+            padding: 20px; /* Espacement interne */
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1); /* Ombre pour le bandeau */
+            left: 0;
+            top: 100px;
+            position: fixed;
+            overflow-y: auto;
+            height: calc(100vh - 100px - 70px); /* Prend toute la hauteur de la fenêtre moins un espace de 40px en haut */
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+        }
+
+        .menu {
+            cursor: pointer; /* Change le curseur au survol */
+            padding: 12px 0; /* Espacement pour les éléments de menu */
+            border-bottom: 1px solid #ddd; /* Ligne de séparation */
+            color: #333;
+            font-size: 1.1em;
+            text-decoration: none;
+            width: 100%;
+            transition: background 0.3s;
+        }
+
+        .menu:hover {
+            background-color: #e9ecef; /* Couleur de fond au survol */
+            color: #007BFF; /* Texte bleu au survol */
+        }
+
+        .submenu {
+            display: none; /* Masquer les sous-menus par défaut */
+            padding-left: 20px; /* Indentation pour les sous-menus */
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .menu.active {
+            color: #007BFF;
+            font-weight: bold;
+        }
+
+        .active {
+            display: block;
+            margin-top: 10px;
+        }
+
+        .spacer {
+            flex-grow: 1; /* Pousse le menu Administration en bas */
+        }
+
+        /* Bandeau de présentation */
+        #header {
+            width: 100%;
+            background-color: #007BFF;
+            height: 80px;
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            color: white;
+            font-size: 24px;
+            padding: 10px 50px;
+            position: fixed;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        #header img {
+            height: 90px; /* Ajustez la hauteur selon vos besoins */
+            margin-right: 45px; /* Espacement à droite de l'image */
+            margin-left: 40px;
+        }
+
+        #header a {
+            margin-left: auto; /* Pousse le lien Contact à droite */
+            margin-left: 200px;
+            color: white; /* Couleur du lien */
+            text-decoration: none; /* Supprime le soulignement du lien */
+            font-size: 16px; /* Taille de la police du lien */
+            padding: 10px 45px;
+        }
+
+        main {
+            margin-top: 150px; /* Crée de l'espace pour le bandeau fixe */
+            padding: 20px; /* Espacement intérieur */
+            width: 100%;
+            padding-bottom: 60px;
+        }
+
+        /* Contenu principal */
+        #content {
+            margin-top: 150px;
+            max-width: 800px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* bandeau du bas */
+        .footer {
+            background-color: #f1f1f1; /* Couleur de fond */
+            padding: 10px 0px;
+            text-align: left; /* Aligne le texte à droite */
+            position: fixed; /* Fixe le bandeau en bas */
+            bottom: 0; /* Aligne le bandeau en bas */
+            left: 0; /* Aligne le bandeau à gauche */
+            width: 100%; /* Prend toute la largeur */
+            box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); /* Ombre pour le bandeau */
+            font-size: 12px;
+            margin: 0;
+            margin-left: 20px;
+        }
+
+        /* Boutons */
+        .buttonreinitialisation {
+            background-color: #007BFF;
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 20px 0;
+            border-radius: 5px;
+            float: right;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .buttonreinitialisation:hover {
+            background-color: #0372e9;
+            transform: translateY(-2px);
+        }
+    </style>
+
+    <script>
+        // Fonction pour afficher/cacher le sous-menu
+        function toggleSubMenu(id) {
+            const submenu = document.getElementById(id);
+            submenu.classList.toggle("active");
+        }
+
+
+    </script>
+
+</head>
+
+<body>
+    <div id="header">
+        <img src="logosite.png" alt="Logo" />
+    </div>
+
+    <div class="sidebar">
+        <div class="menu" onclick="startaccueil()">Accueil</div>
+        <div class="menu" onclick="toggleSubMenu('qcmSubMenu')">QCM</div>
+        <div class="submenu" id="qcmSubMenu">
+            <div class="menu" onclick="startIRA()">QCM IRA</div>
+            <div class="menu" onclick="startTOEIC()">QCM Culture Générale</div>
+        </div>
+        <div class="spacer"></div>
+        <div class="menu" onclick="startadmin()">Administration</div>
+    </div>
+
+    <div id="content">
+        <h1>Présentation du site</h1>
+        <p>Texte de présentation</p>
+        <div><button class="buttonreinitialisation" onclick="reinitialiserClassementIRA()">Réinitialiser le classement IRA</button></div>
+        <div><button class="buttonreinitialisation" onclick="reinitialiserClassementTOEIC()">Réinitialiser le classement TOEIC</button></div>
+    </div>
+
+    <div class="footer">
+        © 2024 Testify. Tous droits réservés.
+    </div>
+
+    <script>
+
+        function reinitialiserClassementIRA() {
+            // Réinitialiser le classement avec 10 entrées vides
+            localStorage.setItem("classementIRA", JSON.stringify(Array.from({ length: 10 }, () => ({ nom: "", score: 0 }))));
+        }
+
+        function reinitialiserClassementTOEIC() {
+            // Réinitialiser le classement avec 10 entrées vides
+            localStorage.setItem("classementTOEIC", JSON.stringify(Array.from({ length: 10 }, () => ({ nom: "", score: 0 }))));
+        }
+
+        function startIRA(){
+            window.location.href = 'qcmIRA.html'; 
+        }
+
+        function startaccueil(){
+            window.location.href = 'index.html'
+        }
+
+        function startadmin(){
+            window.location.href = 'qcmIRA.html'; 
+        }
+
+        function startTOEIC(){
+            window.location.href = 'qcmTOEIC.html'; 
+        }
+
+    </script>
+
+</body>

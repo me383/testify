@@ -1,0 +1,2160 @@
+
+
+[
+    {
+    "question": "Parmi les propositions suivantes, quelle autorité dispose du pouvoir de police administrative générale ?",
+    "options": {
+    "A": "Le député",
+    "B": "Le ministre des armées",
+    "C": "Le maire"
+    },
+    "correct": "C"
+    },
+
+    {
+        "question": "Vous êtes un(e) fonctionnaire du ministère de l'enseignement supérieur, de la recherche et de l'innovation mis(e) à disposition d'un établissement public de santé. À ce titre, vous :",
+        "options": {
+            "A": "êtes rémunéré(e) par votre administration d'origine",
+            "B": "êtes rémunéré(e) par votre organisme d'accueil",
+            "C": "bénéficiez d'une rémunération versée à parts égales par votre administration d'origine et par votre organisme d'accueil"
+        },
+        "correct": "A"
+    },
+    
+
+    {
+        "question": "Dans quelle partie du territoire français continue à s'appliquer le régime concordataire de 1801 régissant les relations entre les religions et l'État ?",
+        "options": {
+            "A": "La Nouvelle-Calédonie",
+            "B": "La Polynésie française",
+            "C": "L'Alsace-Moselle"
+        },
+        "correct": "C"
+    },
+
+        {
+            "question": "L'intercommunalité désigne :",
+            "options": {
+                "A": "la fusion de cinq communes",
+                "B": "la coopération entre communes au sein d'un établissement public de coopération intercommunale",
+                "C": "la commission qui exerce la tutelle d'une commune ayant des problèmes de gestion"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "La transparence administrative trouve son origine :",
+            "options": {
+                "A": "dans la loi du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations",
+                "B": "dans le décret du 28 novembre 1983 concernant les relations entre l'administration et les usagers",
+                "C": "dans la loi du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "Le sigle « 3DS » du projet de loi ainsi nommé signifie :",
+            "options": {
+                "A": "déconcentration, décentralisation, décomplexification et simplification",
+                "B": "différenciation, décentralisation, déconcentration et simplification",
+                "C": "décentralisation, développement durable, simplification"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Vous êtes en poste au sein d’un pôle d’appui juridique en région relevant du ministère de l’intérieur. Un agent de préfecture souhaite anticiper la survenance d’un recours contre un arrêté préfectoral de déclaration d’utilité publique en vue de l’expropriation d’un bien privé, et vous demande de quel ordre de juridiction relèverait ce contentieux, le cas échéant. Que lui indiquez-vous ?",
+            "options": {
+                "A": "Le contentieux relève de la juridiction administrative",
+                "B": "Le contentieux relève de la juridiction judiciaire",
+                "C": "Le Tribunal des conflits doit être saisi pour régler cette question de compétence"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Qui exerce traditionnellement la présidence du Conseil d'Etat ?",
+            "options": {
+                "A": "Le secrétaire général du Gouvernement",
+                "B": "Le vice-président du Conseil d'Etat",
+                "C": "Le Premier ministre"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "En poste dans un rectorat, votre hiérarchie vous demande comment justifier un refus de communiquer un document administratif. Vous lui indiquez que c’est possible lorsque :",
+            "options": {
+                "A": "La personne concernée n'est pas un ressortissant français",
+                "B": "Il n'y a pas d'intérêt à agir",
+                "C": "Le document est préparatoire à une décision qui n'a pas encore été prise"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "L'administration ne peut abroger ou retirer une décision créatrice de droits que si cette décision est :",
+            "options": {
+                "A": "Illégale, et si le retrait intervient dans le délai de quatre mois suivant la prise de cette décision",
+                "B": "Illégale",
+                "C": "Illégale, et si le retrait intervient dans le délai de deux mois suivant la prise de cette décision"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Laquelle de ces institutions est une autorité administrative indépendante :",
+            "options": {
+                "A": "La commission du contentieux du stationnement payant",
+                "B": "La Haute autorité pour la transparence de la vie publique",
+                "C": "L'Office national des forêts"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "La notion juridique de voie de fait désigne une action de l’administration qui porte atteinte :",
+            "options": {
+                "A": "Soit au droit de propriété, soit à une liberté fondamentale",
+                "B": "Uniquement à une liberté fondamentale",
+                "C": "Uniquement au droit de propriété"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "En tant que fonctionnaire, vos garanties fondamentales sont fixées par :",
+            "options": {
+                "A": "La Constitution",
+                "B": "La loi",
+                "C": "Le décret"
+            },
+            "correct": "B"
+        },
+        {
+            "question": "Un décret délibéré en Conseil des ministres est pris par :",
+            "options": {
+                "A": "Le Président de la République",
+                "B": "Le Premier ministre",
+                "C": "Le ministre compétent"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Avant d’être inscrites dans le statut général des fonctionnaires par la loi du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires, les obligations de dignité, d’impartialité, d’intégrité et de probité étaient :",
+            "options": {
+                "A": "Consacrées par des dispositions d’ordre réglementaire",
+                "B": "Portées par le droit européen",
+                "C": "Consacrées par le juge administratif"
+            },
+            "correct": "C"
+        },
+        {
+            "question": "Quelles sont les sanctions disciplinaires du premier groupe applicables au fonctionnaire titulaire ?",
+            "options": {
+                "A": "L'avertissement, le blâme et l'exclusion temporaire de fonctions de 1 à 3 jours",
+                "B": "L'avertissement, le blâme, l'abaissement d'échelon et l'exclusion temporaire de 4 à 15 jours",
+                "C": "L'avertissement, le blâme, la radiation du tableau d'avancement et la révocation"
+            },
+            "correct": "A"
+        },
+        {
+            "question": "Quelle juridiction est compétente en matière de contentieux de la fonction publique ?",
+            "options": {
+                "A": "La juridiction prud’homale",
+                "B": "La juridiction administrative",
+                "C": "La juridiction judiciaire"
+            },
+            "correct": "B"
+        },
+        {
+                "question": "Vous êtes, en tant que fonctionnaire :",
+                "options": {
+                  "A": "titularisé dans un emploi donnant une possibilité d’avancement à divers niveaux de responsabilité",
+                  "B": "titularisé dans un grade donnant vocation à occuper des emplois correspondant à un certain niveau de responsabilité",
+                  "C": "titulaire de votre grade et de votre emploi correspondant à un certain niveau de responsabilité"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "En tant que fonctionnaire de l'Etat, vous pouvez percevoir des indemnités liées à votre statut et, le cas échéant, des indemnités liées à votre manière de servir, dont :",
+                "options": {
+                  "A": "l'indemnité de formation, de spécialisation et d'engagement",
+                  "B": "l'indemnité de fonctions, de sujétion et d'expertise",
+                  "C": "le complément indemnitaire annuel"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Vous êtes chef de service dans une direction régionale de l’environnement, de l’aménagement et du logement. L’un des ingénieurs des travaux publics de l’Etat vous informe vouloir travailler sur une mission de trois années, pour un bureau d’étude privé n’exerçant pas de mission de service public. L’agent va donc solliciter une position de :",
+                "options": {
+                  "A": "mise à disposition",
+                  "B": "détachement",
+                  "C": "disponibilité"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Depuis le 1er février 2020, quelle instance effectue les contrôles déontologiques des agents publics de l’Etat ?",
+                "options": {
+                  "A": "La commission de déontologie de la fonction publique",
+                  "B": "La Haute Autorité de transparence de la vie publique",
+                  "C": "Le Conseil supérieur de la fonction publique de l’Etat"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Les sanctions disciplinaires applicables aux fonctionnaires se répartissent :",
+                "options": {
+                  "A": "en quatre groupes, par ordre décroissant de sévérité",
+                  "B": "en quatre groupes, par ordre croissant de sévérité",
+                  "C": "en cinq groupes, par ordre décroissant de sévérité"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Vous êtes chef de service. Vous constatez qu'un fonctionnaire chargé de l'accueil du public distribue au guichet des tracts politiques. À votre avis, cet agent enfreint-il une obligation déontologique ?",
+                "options": {
+                  "A": "Non, car tout fonctionnaire bénéficie de la liberté d'opinion",
+                  "B": "Oui, car une obligation de neutralité s'impose à tout fonctionnaire dans l’exercice de ses fonctions",
+                  "C": "Oui, car une obligation de probité s'impose à tout fonctionnaire"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "L'accident survenu durant le temps et sur le lieu du service est :",
+                "options": {
+                  "A": "reconnu imputable au service lorsque l'agent en apporte la preuve",
+                  "B": "présumé imputable au service",
+                  "C": "présumé imputable au service en l'absence de faute personnelle"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Vous êtes un agent en situation de handicap et souhaitez bénéficier de la reconnaissance de la qualité de travailleur handicapé (RQTH). Auprès de qui devez-vous déposer votre demande ?",
+                "options": {
+                  "A": "La maison départementale des personnes handicapées (MDPH) de votre lieu de résidence",
+                  "B": "La médecine du travail de votre administration",
+                  "C": "Le référent handicap de votre administration"
+                },
+                "correct": "A"
+              },
+              {
+                "question": "En tant qu’agent public, vous pouvez user de votre droit de retrait lorsque :",
+                "options": {
+                  "A": "vous avez un motif raisonnable de penser que vous vous trouvez exposé à un danger grave et imminent pour votre vie ou votre santé et/ou vous constatez une défectuosité dans les systèmes de protection",
+                  "B": "vous avez sollicité par écrit l’usage de ce droit à votre chef de service en motivant cette demande sans condition particulière",
+                  "C": "vous avez sollicité par écrit l’usage de ce droit à votre chef de service en motivant cette demande par un risque pour votre qualité de vie au travail, localisé sur votre lieu de travail"
+                },
+                "correct": "A"
+              },
+              {
+                "question": "Vous êtes attaché d'administration de l'Etat. À ce titre, en tant que fonctionnaire, vous pouvez être placé dans :",
+                "options": {
+                  "A": "cinq positions administratives : activité, détachement, disponibilité, congé parental ou mise à disposition",
+                  "B": "quatre positions administratives : activité, détachement, disponibilité ou congé parental",
+                  "C": "trois positions administratives : activité, détachement ou disponibilité"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Un fonctionnaire travaillant sous votre autorité vous demande s'il peut s'absenter pour participer à une campagne électorale car il se présente à une élection politique locale. Que lui répondez-vous ?",
+                "options": {
+                  "A": "Un agent public se présentant à une élection politique bénéficie d'un nombre de jours d'autorisation d'absence plafonné pour pouvoir participer à la campagne électorale",
+                  "B": "Un agent public se présentant à une élection politique bénéficie d'un nombre illimité de jours d'autorisation d'absence pour pouvoir participer à la campagne électorale",
+                  "C": "Aucune autorisation d'absence ne peut être accordée aux agents publics se présentant à une élection politique"
+                },
+                "correct": "A"
+              },
+              {
+                "question": "Vous êtes le référent déontologue d'un établissement public. Un agent contractuel se présentant comme un lanceur d'alerte souhaite dénoncer un conflit d'intérêt concernant son supérieur hiérarchique. Vous lui indiquez que la protection du lanceur d’alerte dans la fonction publique :",
+                "options": {
+                  "A": "ne s'applique pas aux agents contractuels",
+                  "B": "s'applique aux agents contractuels mais ne recouvre que la dénonciation des crimes et délits",
+                  "C": "s'applique aux agents contractuels et recouvre la dénonciation des crimes et délits ainsi que les conflits d'intérêts"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Qu'est-ce qu'un glissement vieillesse technicité (GVT) positif ?",
+                "options": {
+                  "A": "Une augmentation de la qualification des agents résultant d'un accroissement d'expérience dans la fonction publique",
+                  "B": "Un solde qui traduit l'augmentation de la masse salariale du fait de la progression des agents dans leurs grilles indiciaires",
+                  "C": "Une augmentation de la qualification des agents résultant d'un accroissement d'expérience sur des postes d'une même famille professionnelle au sein de la fonction publique"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Quelle sanction disciplinaire ne fait pas l'objet d'une inscription dans le dossier de l'agent ?",
+                "options": {
+                  "A": "L'avertissement",
+                  "B": "L'exclusion temporaire de fonctions d'une durée maximale de 3 jours",
+                  "C": "Le blâme"
+                },
+                "correct": "A"
+              },
+              {
+                "question": "Dans le cadre de la législation sur le non cumul des mandats, quelle est la réponse juste ?",
+                "options": {
+                  "A": "Un ministre peut être maire d’une grande ville de plus de 100 000 habitants",
+                  "B": "Un député peut être vice-président d’un conseil régional",
+                  "C": "Un maire d’une petite commune de moins de 1000 habitants peut présider un conseil départemental"
+                },
+                "correct": "A"
+              },
+              {
+                "question": "Qu'interdit le principe d'égalité en France ?",
+                "options": {
+                  "A": "Que des personnes placées dans des situations différentes soient traitées de façon identique",
+                  "B": "Que des personnes placées dans des situations identiques soient traitées différemment",
+                  "C": "Que des personnes placées dans des situations identiques soient traitées de façon identique"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Les ordonnances prévues à l'article 38 de la Constitution n'acquièrent pleine valeur législative qu'après leur :",
+                "options": {
+                  "A": "légalisation",
+                  "B": "déclassement",
+                  "C": "ratification expresse"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Pour être recevable, une proposition de loi doit :",
+                "options": {
+                  "A": "être conforme aux orientations gouvernementales",
+                  "B": "avoir été examinée en commission des finances du Sénat.",
+                  "C": "ne pas avoir pour conséquence soit une diminution des ressources publiques soit la création ou l’aggravation d’une charge publique"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "En droit français, quelle(s) norme(s) se situe(nt) au sommet de la hiérarchie des normes ?",
+                "options": {
+                  "A": "Les actes administratifs réglementaires",
+                  "B": "La Constitution et le « bloc de constitutionnalité »",
+                  "C": "Les lois"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Pour être recevable, une motion de censure doit être signée par 1/10e au moins des membres :",
+                "options": {
+                  "A": "du Sénat",
+                  "B": "de l’Assemblée nationale",
+                  "C": "du Sénat et de l’Assemblée nationale"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Selon la Constitution, quelle est l'autorité responsable de la Défense nationale ?",
+                "options": {
+                  "A": "Le Premier ministre",
+                  "B": "Le Président de la République",
+                  "C": "Le ministre des armées"
+                },
+                "correct": "A"
+              },
+              {
+                "question": "La question prioritaire de constitutionnalité peut être utilisée par les collectivités territoriales depuis :",
+                "options": {
+                  "A": "2008",
+                  "B": "2010",
+                  "C": "2012"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "L'article 16 de la Constitution du 4 octobre 1958 :",
+                "options": {
+                  "A": "introduit la question prioritaire de constitutionnalité",
+                  "B": "pose le principe du contrôle de légalité",
+                  "C": "régit les pouvoirs exceptionnels du Président de la République"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Sous la Ve République, le chef des armées est :",
+                "options": {
+                  "A": "le Premier ministre",
+                  "B": "le Président de la République",
+                  "C": "le chef d’état-major des armées nommé par le Président de la République"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Le nombre de conseillers pour un ministre de plein exercice est, par principe, limité à :",
+                "options": {
+                  "A": "8 conseillers",
+                  "B": "12 conseillers",
+                  "C": "15 conseillers"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Le Conseil constitutionnel est renouvelé par tiers :",
+                "options": {
+                  "A": "tous les 3 ans",
+                  "B": "tous les 4 ans",
+                  "C": "tous les 5 ans"
+                },
+                "correct": "A"
+              },
+              {
+                "question": "Dans le cadre de la navette parlementaire, qui statue en dernier ressort en cas de désaccord entre les deux chambres ?",
+                "options": {
+                  "A": "Le Conseil constitutionnel",
+                  "B": "Le Sénat",
+                  "C": "L’Assemblée nationale"
+                },
+                "correct": "C"
+              },
+              {
+                "question": "Quelle affirmation, relative aux commissions d'enquête parlementaires, est inexacte ?",
+                "options": {
+                  "A": "Les personnes auditionnées peuvent être des membres du Gouvernement, des commissaires européens, des chercheurs, des représentants des milieux socioprofessionnels…",
+                  "B": "Elles peuvent être initiées par une pétition recueillant au moins 500 000 signatures",
+                  "C": "Les auditions sont, par principe, ouvertes à la presse et retransmises en direct sur le site internet de l’Assemblée nationale"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "De quel(s) pouvoir(s) la Haute Autorité pour la transparence de la vie publique est-elle dotée ?",
+                "options": {
+                  "A": "Un pouvoir de sanction administrative",
+                  "B": "Un pouvoir de contrôle",
+                  "C": "Un pouvoir de contrôle et un pouvoir de sanction administrative"
+                },
+                "correct": "B"
+              },
+              {
+                "question": "Le chancelier des universités est aussi :",
+                "options": {
+                  "A": "le vice-recteur d’académie",
+                  "B": "le directeur de cabinet du recteur d’académie",
+                  "C": "le recteur d’académie"
+                },
+                "correct": "C"
+                },
+                {
+                    "question": "Quel texte a autorisé le droit de vote des femmes en France ?",
+                    "options": {
+                      "A": "La Constitution du 4 octobre 1958",
+                      "B": "L'ordonnance du 21 avril 1944",
+                      "C": "La Constitution du 27 octobre 1946"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Combien existe-t-il de tribunaux administratifs en France ?",
+                    "options": {
+                      "A": "100",
+                      "B": "31",
+                      "C": "42"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Qui assure le secrétariat du Conseil des ministres ?",
+                    "options": {
+                      "A": "Le secrétaire général de la Présidence de la République",
+                      "B": "Le secrétaire général du Gouvernement",
+                      "C": "Le ministre, porte-parole du Gouvernement"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Quelle est la durée d'un mandat de conseiller municipal ?",
+                    "options": {
+                      "A": "Cinq ans",
+                      "B": "Six ans",
+                      "C": "Sept ans"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Depuis la loi du 7 août 2015 portant nouvelle organisation territoriale de la République, quelle est l'autorité compétente en matière de mobilité interurbaine ?",
+                    "options": {
+                      "A": "Le conseil départemental",
+                      "B": "Le conseil régional",
+                      "C": "La métropole"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Depuis le 1er avril 2021, les compétences des différentes entités chargées des questions économiques et sociales sont attribuées à :",
+                    "options": {
+                      "A": "la direction régionale et interdépartementale de l’environnement, de l’aménagement et des transports (DRIEAT) fusionnant la direction régionale et interdépartementale de l’équipement et de l’aménagement (DRIEA) et la direction régionale et interdépartementale de l’environnement et de l’énergie (DRIEE)",
+                      "B": "la direction de la recherche, des études, de l’évaluation et des statistiques (DREES) fusionnant les schémas régionaux de développement économique et social",
+                      "C": "la direction régionale et interdépartementale de l’économie, de l’emploi, du travail et des solidarités (DREETS) réunissant la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE) et la direction régionale de la cohésion sociale (DRCS)"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Dans le cadre de la réforme de l’Etat, lesquelles des missions suivantes ont été attribuées à l’Institut national du service public ?",
+                    "options": {
+                      "A": "Le recrutement et la formation initiale des cadres supérieurs de la fonction publique de l’Etat",
+                      "B": "Le recrutement, la formation initiale et la politique des ressources humaines des cadres supérieurs de la fonction publique de l’Etat",
+                      "C": "Le recrutement et la formation de tous les cadres supérieurs de la fonction publique de l’Etat, de la fonction publique territoriale et de la fonction publique hospitalière"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Dans le cadre d’un contentieux administratif, votre supérieur hiérarchique vous demande des éléments sur la formation en assemblée du contentieux du Conseil d’Etat. Vous lui indiquez que l’assemblée statue sur les affaires qui présentent une importance remarquable, et que :",
+                    "options": {
+                      "A": "présidée par le président du Conseil d’Etat, elle comprend 17 membres",
+                      "B": "présidée par le vice-président du Conseil d’Etat, elle comprend 17 membres",
+                      "C": "présidée par le vice-président du Conseil d’Etat, elle comprend 10 membres"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Le principe de l'organisation décentralisée de la République est posé par :",
+                    "options": {
+                      "A": "la loi",
+                      "B": "la Constitution",
+                      "C": "un principe général du droit"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Le contrôleur général des lieux de privation de liberté est :",
+                    "options": {
+                      "A": "une autorité administrative indépendante",
+                      "B": "rattaché au ministère de la justice",
+                      "C": "un fonctionnaire du ministère de l'intérieur"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Qui est le garant de l'indépendance de l'autorité judiciaire en France :",
+                    "options": {
+                      "A": "le ministre de la justice",
+                      "B": "le Premier ministre",
+                      "C": "le Président de la République"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Une agence régionale de santé est :",
+                    "options": {
+                      "A": "un service déconcentré du ministère de la santé",
+                      "B": "un service à compétence nationale",
+                      "C": "un établissement public à caractère administratif placé sous tutelle du ministère de la santé"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Un établissement public local d’enseignement est :",
+                    "options": {
+                      "A": "un service déconcentré du ministère de l’éducation nationale, habilité à recevoir des subventions de la part des collectivités territoriales",
+                      "B": "une entité de droit public dotée de la personnalité morale sous tutelle d’une collectivité territoriale, habilitée à recevoir des subventions de la part du ministère de l’éducation nationale",
+                      "C": "une entité de droit public dotée de la personnalité morale et de compétences relevant pour certaines de l’Etat et pour d’autres des collectivités territoriales"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Vous êtes adjoint gestionnaire en EPLE, votre chef d’établissement s’est absenté pour une réunion importante au rectorat et vous devez passer une commande urgente auprès d’un fournisseur. Le bon de commande valant engagement financier de l’établissement peut être signé :",
+                    "options": {
+                      "A": "de droit, par le chef d’établissement adjoint",
+                      "B": "par vous, sur la base d’une délégation de signature formalisée",
+                      "C": "de droit, par l’agent comptable de l’établissement"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Parmi le champ d'intervention des chambres régionales des comptes, laquelle est une fausse proposition ?",
+                    "options": {
+                      "A": "L'intervention en cas de retard dans le vote du budget primitif",
+                      "B": "L'intervention lorsque le budget n'a pas été voté en équilibre réel",
+                      "C": "L'intervention lorsque le budget est en excédent"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Quelle autorité au sein de la Cour des comptes intervient pour adresser un référé aux administrations étatiques ?",
+                    "options": {
+                      "A": "Le Premier président",
+                      "B": "Le président de chambre",
+                      "C": "Le procureur général"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "La charge de la dette de l'Etat est :",
+                    "options": {
+                      "A": "un crédit global",
+                      "B": "un crédit évaluatif",
+                      "C": "un crédit limitatif"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "L’article 14 de la Déclaration des Droits de l'Homme et du Citoyen pose le principe :",
+                    "options": {
+                      "A": "du recouvrement des créances de l'Etat",
+                      "B": "du consentement à l’impôt",
+                      "C": "du besoin pour la force publique de disposer de ressources"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Un régisseur d'avances et de recettes est :",
+                    "options": {
+                      "A": "un comptable public",
+                      "B": "un ordonnateur principal",
+                      "C": "un ordonnateur secondaire"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Le principe d'universalité budgétaire implique :",
+                    "options": {
+                      "A": "l'obligation de présenter toutes les dépenses et toutes les recettes dans un seul et même document",
+                      "B": "la présentation de l'objet des dépenses budgétaires par structure bénéficiaire",
+                      "C": "la non-affectation des recettes de l'Etat à une dépense spécifique"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Les dépenses relatives aux minimas sociaux sont partagées entre plusieurs acteurs :",
+                    "options": {
+                      "A": "les départements et l'Etat",
+                      "B": "les organismes sociaux et les communes",
+                      "C": "les régions et les organismes sociaux"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "En cas d'urgence pour augmenter les crédits ouverts en loi de finances initiale, le Gouvernement peut prendre :",
+                    "options": {
+                      "A": "un décret pour aléas de gestion",
+                      "B": "un décret d'avance",
+                      "C": "un décret de dépenses accidentelles"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "La règle du service fait interdit :",
+                    "options": {
+                      "A": "de rémunérer les agents du service public sans vérifier l'exécution effective des tâches qui leur sont dévolues",
+                      "B": "de procéder à un paiement avant réalisation de la prestation commandée",
+                      "C": "de recruter des comptables n'ayant pas participé à la journée défense et citoyenneté"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "La gestion de la dette, de la trésorerie de l'Etat ainsi que les activités post-marché est assumée par :",
+                    "options": {
+                      "A": "l'agence France Trésor",
+                      "B": "le Trésor Public",
+                      "C": "la direction du budget"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Les perspectives de dépenses et d’emplois de l'année n+1 sont notifiées aux différents ministères par le biais :",
+                    "options": {
+                      "A": "d'une lettre-plafond signée par le Premier ministre",
+                      "B": "de la publication d'un arrêté ministériel",
+                      "C": "d'une note visée par la direction du budget"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Quelles sont les politiques publiques les plus coûteuses du budget de l’Etat ?",
+                    "options": {
+                      "A": "La défense et les sécurités",
+                      "B": "La justice, le conseil et le contrôle de l’Etat",
+                      "C": "L'éducation et la recherche"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Encadré depuis 2006 par la loi organique relative aux lois de finances (LOLF), le budget annuel est également élaboré dans le respect de :",
+                    "options": {
+                      "A": "la loi de règlement initiale",
+                      "B": "la loi de programmation des finances publiques",
+                      "C": "la loi de programme budgétaire"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Les rapports annuels de performance (RAP) sont annexés :",
+                    "options": {
+                      "A": "au collectif budgétaire",
+                      "B": "à la loi de règlement",
+                      "C": "à la loi de finances initiale"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Quelle est l'autorité interlocutrice du contrôleur budgétaire et comptable ministériel ?",
+                    "options": {
+                      "A": "Le responsable de budget opérationnel de programme",
+                      "B": "Le responsable d'unité opérationnelle",
+                      "C": "Le contrôleur de gestion"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "La taxe sur la valeur ajoutée est, au sens de la loi organique relative aux lois de finances :",
+                    "options": {
+                      "A": "un prélèvement obligatoire",
+                      "B": "une recette non fiscale",
+                      "C": "une recette fiscale"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Vous êtes responsable du service « budget et administration » d’une école de formation du service public. Votre chef d’établissement, ordonnateur secondaire, vous indique que l’achat d’un matériel a été reporté à l’année suivante. Il souhaite que les crédits ainsi libérés soient employés pour le versement de primes annuelles destinées au personnel de l’école :",
+                    "options": {
+                      "A": "vous lui indiquez que vous allez solliciter cette fongibilité au responsable du budget opérationnel de programme",
+                      "B": "vous lui indiquez que vous allez procéder à une modification de votre programmation budgétaire en ce sens",
+                      "C": "vous lui indiquez que ce n’est pas possible en raison du principe de fongibilité asymétrique"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Le déficit public correspond :",
+                    "options": {
+                      "A": "au déficit budgétaire",
+                      "B": "à l’endettement de l’Etat",
+                      "C": "au déficit des collectivités territoriales, de la sécurité sociale et de l’Etat"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "La responsabilité disciplinaire de l'ordonnateur public relève de la Cour de discipline budgétaire et financière, excepté pour :",
+                    "options": {
+                      "A": "les ordonnateurs principaux",
+                      "B": "les ordonnateurs secondaires",
+                      "C": "les ordonnateurs exerçant les fonctions de membre du Gouvernement"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "L’organe juridictionnel actuel de l’Union européenne, la Cour de justice de l’Union européenne, a historiquement été constitué :",
+                    "options": {
+                      "A": "en 1952 avec le Traité instituant la Communauté européenne du charbon et de l’acier",
+                      "B": "en 1992 avec le Traité sur l’Union européenne",
+                      "C": "en 2009 avec le Traité sur le fonctionnement de l’Union européenne"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "La Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales a été ratifiée par :",
+                    "options": {
+                      "A": "47 Etats dont les 27 membres de l’Union européenne",
+                      "B": "27 Etats dont 22 sont membres de l’Union européenne",
+                      "C": "37 Etats dont 19 sont membres de l’Union européenne"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Parmi les principes fondamentaux qui sont à la base de l'Union et qui sont énoncés par le traité d’Amsterdam, on retrouve :",
+                    "options": {
+                      "A": "la liberté religieuse",
+                      "B": "la liberté de la presse",
+                      "C": "la démocratie"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "La Cour de justice de l’Union européenne statue à titre préjudiciel :",
+                    "options": {
+                      "A": "lorsque la Commission européenne la saisit parce qu’un État membre a manqué aux obligations qui lui incombent en vertu des traités",
+                      "B": "lorsqu’un juge national la saisit pour lui poser une question relative à l’interprétation ou la validité du droit de l’Union européenne",
+                      "C": "lorsqu’un Etat membre la saisit pour juger de la légalité d’un acte de la Commission européenne destiné à produire des effets juridiques à l’égard des tiers"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "L'article 7 du Traité sur l'Union européenne donne la possibilité à l'Union européenne de sanctionner un Etat membre qui ne respecterait pas ses valeurs fondatrices. Lequel des pays suivants a déjà été visé par cette procédure ?",
+                    "options": {
+                      "A": "Le Royaume-Uni",
+                      "B": "La Pologne",
+                      "C": "Le Danemark"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Le président de la Commission européenne est élu par :",
+                    "options": {
+                      "A": "le Parlement européen sur proposition du Conseil de l’Union européenne",
+                      "B": "le Conseil de l’Union européenne sur proposition du Conseil européen",
+                      "C": "le Parlement européen sur proposition du Conseil européen"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "En 2021, la France a été :",
+                    "options": {
+                      "A": "le premier contributeur au budget de l’Union européenne devant l’Allemagne",
+                      "B": "le deuxième contributeur au budget de l’Union européenne derrière l’Allemagne",
+                      "C": "le troisième contributeur au budget de l’Union européenne derrière l’Allemagne et l’Italie"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "La France a assuré la présidence du Conseil de l’Union européenne pour la première fois en :",
+                    "options": {
+                      "A": "1974",
+                      "B": "1968",
+                      "C": "1959"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "Les Etats européens définissent le cadre financier pluriannuel de l'Union européenne au moins :",
+                    "options": {
+                      "A": "tous les ans",
+                      "B": "tous les 5 ans",
+                      "C": "tous les 7 ans"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "Quelle est la mission de la Banque européenne d’investissement ?",
+                    "options": {
+                      "A": "Contribuer, en faisant appel aux marchés des capitaux, au financement des déficits publics des Etats membres de la zone euro",
+                      "B": "Contribuer, en faisant appel aux marchés des capitaux et à ses ressources propres, au développement équilibré du marché intérieur dans l’intérêt de l’Union européenne",
+                      "C": "Se substituer aux Etats membres de l’Union européenne en matière de soutien aux investissements des PME d’ici 2027"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "Quel est le dernier pays à avoir intégré l’Union européenne en 2013 ?",
+                    "options": {
+                      "A": "Le Kosovo",
+                      "B": "L’Islande",
+                      "C": "La Croatie"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "L’accord de commerce et de coopération entre le Royaume-Uni et l’Union européenne, signé le 24 décembre 2020, comprend des dispositions permettant :",
+                    "options": {
+                      "A": "le libre accès des pêcheurs européens aux eaux britanniques",
+                      "B": "la libre circulation des personnes entre le Royaume-Uni et la France",
+                      "C": "des échanges de biens et services sans droits de douane ni quotas"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "Parmi ces pays, lequel n’est pas candidat pour intégrer l'Union européenne ?",
+                    "options": {
+                      "A": "L’Islande",
+                      "B": "La Turquie",
+                      "C": "Le Monténégro"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Dans quel Traité ont été posés les bases et les principes de la politique européenne de l’environnement :",
+                    "options": {
+                      "A": "le Traité de Rome",
+                      "B": "l’Acte unique européen",
+                      "C": "le Traité de Nice"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "Depuis quand un Etat a-t-il la possibilité de se retirer de l’Union ?",
+                    "options": {
+                      "A": "Depuis le traité de Lisbonne",
+                      "B": "Depuis le traité de Maastricht",
+                      "C": "Depuis le traité de Rome"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Pour accéder à la monnaie unique, les Etats doivent respecter les critères de convergence définis lors du Traité de Maastricht. Parmi eux :",
+                    "options": {
+                      "A": "le plafond de 3% du PIB pour le déficit public annuel",
+                      "B": "le plafond de 3% du PIB pour la dette publique",
+                      "C": "le plafond de 2% d'inflation"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Parmi ces Etats membres de l’Union européenne, lequel ne fait pas partie de l’espace Schengen ?",
+                    "options": {
+                      "A": "La Lituanie",
+                      "B": "La Pologne",
+                      "C": "La Roumanie"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "L’Union européenne dispose d'un statut de membre à part entière dans l'organisation suivante :",
+                    "options": {
+                      "A": "l’Organisation Mondiale du Commerce",
+                      "B": "l'Organisation Mondiale de la Santé",
+                      "C": "l’Organisation des Nations unies pour l'éducation, la science et la culture"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Le Conseil des gouverneurs de la Banque centrale européenne a notamment pour missions de :",
+                    "options": {
+                      "A": "définir la politique monétaire de la zone euro et prendre les décisions nécessaires à l’accomplissement des missions confiées à l’Eurosystème",
+                      "B": "mettre en œuvre la politique monétaire de la zone euro en lien avec les banques centrales nationales des pays de l’Union européenne",
+                      "C": "s’assurer de la coordination des politiques économiques et sociales des Etats membres de l’Union européenne"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Chef du service Europe et international au ministère de l’agriculture et de l’alimentation, vous êtes invité(e) à une conférence-débat dans une université sur le thème de la politique agricole commune (PAC) et de sa prochaine réforme. À un étudiant qui vous pose la question, vous répondez que la politique de développement rural représente environ :",
+                    "options": {
+                      "A": "23% du budget de la PAC",
+                      "B": "77% du budget de la PAC",
+                      "C": "52% du budget de la PAC"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Quelle est la différence entre « https » et « http » ?",
+                    "options": {
+                      "A": "Aucune",
+                      "B": "Une abréviation plus courte pour une connexion plus rapide",
+                      "C": "La version sécurisée du protocole de communication qui permet la liaison entre un client et un serveur pour le World Wide Web (www)"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "Quel est le rôle de l'administrateur de réseau informatique ?",
+                    "options": {
+                      "A": "Il a la responsabilité de gérer le serveur de la structure et de répondre aux demandes de ses utilisateurs",
+                      "B": "Il récolte toutes les données personnelles des utilisateurs",
+                      "C": "Il peut déroger sans restriction aux règles des marchés publics en matière d’informatique"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "À quoi sert le pare-feu ?",
+                    "options": {
+                      "A": "C’est une barrière pour les sites interdits aux moins de 18 ans",
+                      "B": "C’est une barrière de protection du réseau",
+                      "C": "C’est une barrière de protection contre les spams"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "Le clavier « QWERTY » est conçu pour assurer une disposition optimale des lettres de l’alphabet sur les claviers :",
+                    "options": {
+                      "A": "anglo-saxons",
+                      "B": "allemands",
+                      "C": "coréens"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Qu'est-ce qu'un QR CODE ?",
+                    "options": {
+                      "A": "C’est un code à reconnaissance faciale",
+                      "B": "C’est un type de code-barres nouvelle génération qui permet de stocker des informations et de les rendre lisibles rapidement",
+                      "C": "C’est un code à reconnaissance digitale"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "À quoi sert un Virtual Private Network (ou Réseau Privé Virtuel) ?",
+                    "options": {
+                      "A": "À augmenter son débit internet",
+                      "B": "À sécuriser les échanges de données entre deux ordinateurs distants",
+                      "C": "À bloquer les logiciels malveillants"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "À quoi sert le Réseau Interministériel de l’Etat (RIE) ?",
+                    "options": {
+                      "A": "À structurer en un seul et unique réseau sécurisé l’ensemble des services de l’Etat",
+                      "B": "À réaliser le contrôle interne comptable et financier de l’ensemble des services déconcentrés de l’Etat",
+                      "C": "À constituer un réseau social dédié aux plateformes RH interministérielles"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "À quoi sert « FRANCE CONNECT » ?",
+                    "options": {
+                      "A": "À sécuriser et simplifier la connexion à plusieurs sites de l’Etat en garantissant l’identité de l’utilisateur",
+                      "B": "À identifier des sites sécurisés",
+                      "C": "À décerner un label qualité aux sites d’administration en ligne"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Qu’est-ce que la stratégie nationale pour un numérique inclusif ?",
+                    "options": {
+                      "A": "Une stratégie de développement d’équipements informatiques pour les personnes en situation de handicap",
+                      "B": "Une stratégie digitale visant à lutter contre les discriminations",
+                      "C": "Une stratégie mise en place pour former et accompagner les usagers les plus éloignés d’Internet"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "Qu'est-ce que l'erreur 504 du protocole de communication internet ?",
+                    "options": {
+                      "A": "Un échec de connexion du fait d’un délai d’attente expiré lors du traitement de la requête",
+                      "B": "Une clé d’authentification nécessaire afin d’accéder à des ressources",
+                      "C": "Un message signalant une source non certifiée"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Pourquoi y a-t-il actuellement une pénurie mondiale de puces et de composants informatiques ?",
+                    "options": {
+                      "A": "À cause de la pandémie de COVID-19",
+                      "B": "À cause de l’épuisement des ressources terrestres en silicium",
+                      "C": "À cause de droits de douane trop élevés qui paralysent les marchés"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "À qui est rattachée la direction interministérielle du numérique (DINUM) ?",
+                    "options": {
+                      "A": "Au secrétaire général du Gouvernement",
+                      "B": "Au ministre de l'intérieur",
+                      "C": "Au secrétaire d’Etat chargé de la transition numérique et des communications électroniques"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "L’expression « fracture numérique » désigne :",
+                    "options": {
+                      "A": "les inégalités dans l’usage et l’accès aux technologies numériques",
+                      "B": "une technologie qui s’est brisée",
+                      "C": "une multitude d’accès au numérique"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Qu’est-ce que l’ANSSI ?",
+                    "options": {
+                      "A": "L’Antenne Nationale de la Sécurité des Serveurs et d’Ingénierie",
+                      "B": "L’Agence Nationale de la Sécurité des Systèmes d’Information",
+                      "C": "L’Agence des Nouveaux Systèmes de Sécurité Industriels"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "Que permet la mise en œuvre du principe « Dites-le-nous une fois » ?",
+                    "options": {
+                      "A": "Le partage des données entre administrations habilitées, afin de simplifier les démarches en ligne",
+                      "B": "La restriction de la consultation de données en ligne",
+                      "C": "Le recueil de l’avis des utilisateurs sur les applicatifs ministériels"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Le plan mis en place en novembre 2021 par le ministère de la transformation et de la fonction publiques en matière de numérique est :",
+                    "options": {
+                      "A": "le plan d’échange de « bonnes pratiques sur le numérique »",
+                      "B": "le plan de « soutien au numérique »",
+                      "C": "le plan d’action « logiciels libres et communs numériques »"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "Que vise le programme « TECH.GOUV » piloté par la DINUM ?",
+                    "options": {
+                      "A": "Il vise à développer le télétravail",
+                      "B": "Il vise à numériser les archives du gouvernement",
+                      "C": "Il vise à accélérer la transformation numérique du service public"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "Le site « PIX » est :",
+                    "options": {
+                      "A": "un service public en ligne d’évaluation, de développement et de certification de ses compétences numériques",
+                      "B": "un site en ligne qui permet de se connecter à des jeux en ligne",
+                      "C": "un service en ligne qui regroupe l’ensemble des offres d’emplois publics"
+                    },
+                      "correct": "A"
+                  },
+                  {
+                    "question": "Qu'est-ce qu'une arborescence ?",
+                    "options": {
+                      "A": "Une liste de termes",
+                      "B": "Une représentation visuelle, en forme d'arbre, des pages d'un site internet",
+                      "C": "Une liste chronologique"
+                    },
+                      "correct": "B"
+                  },
+                  {
+                    "question": "Quel est l’autre nom d’un « cookie » ?",
+                    "options": {
+                      "A": "Témoin de fichier",
+                      "B": "Témoin de serveur",
+                      "C": "Témoin de connexion"
+                    },
+                      "correct": "C"
+                  },
+                  {
+                    "question": "En quoi consiste le principe du décret du 20 janvier 2019 \"Dites-le nous une fois\" dans le cadre des démarches d'un usager ?",
+                    "options": {
+                      "A": "Éviter de fournir des pièces justificatives déjà détenues par l’administration",
+                      "B": "Faire des démarches administratives auprès d'un guichet unique",
+                      "C": "Ne plus renouveler ses documents d'identité"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Quelle grande décision du Conseil d’Etat a mis fin au régime d’irresponsabilité du service de la police ?",
+                    "options": {
+                      "A": "Conseil d’Etat, 10 février 1905, Tomaso Grecco",
+                      "B": "Conseil d’Etat, 28 juin 1918, Heyriès",
+                      "C": "Conseil d’Etat, 28 mars 1919, Regnault-Desroziers"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Quelle loi a réformé en profondeur les procédures d'urgence devant le juge administratif ?",
+                    "options": {
+                      "A": "La loi du 30 juin 1999",
+                      "B": "La loi du 30 juin 2000",
+                      "C": "La loi du 30 juin 2001"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Un agent public qui conduit un véhicule administratif cause un accident de la circulation. L'autre véhicule impliqué est conduit par une personne privée. Quel juge sera compétent en cas de litige ?",
+                    "options": {
+                      "A": "Le juge judiciaire",
+                      "B": "Le juge administratif",
+                      "C": "Le Tribunal des conflits, statuant comme juge du fond"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Quel intérêt public a été reconnu par l’arrêt du Conseil d'Etat du 25 mars 1988 Commune d’Hyères c/. Serres :",
+                    "options": {
+                      "A": "un festival de la bande dessinée",
+                      "B": "un festival de jazz",
+                      "C": "un projet dénommé « Ville Nouvelle Est »"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "La loi du 2 mars 1982 a supprimé la tutelle exercée par le préfet sur les collectivités territoriales et créé un nouveau contrôle qui a une triple caractéristique. Il s’agit :",
+                    "options": {
+                      "A": "du contrôle a posteriori du juge administratif sur la légalité",
+                      "B": "du contrôle a priori du juge judiciaire sur la légalité",
+                      "C": "du contrôle a posteriori du juge administratif sur l’opportunité"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "L'existence d'une voie de fait entraine la compétence du :",
+                    "options": {
+                      "A": "juge administratif",
+                      "B": "juge judiciaire",
+                      "C": "préfet"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Dans quel arrêt le juge administratif a reconnu le principe selon lequel le respect de la dignité de la personne humaine est une composante de l'ordre public ?",
+                    "options": {
+                      "A": "Conseil d’Etat, 27 octobre 1995, Commune de Morsang-sur-Orge",
+                      "B": "Conseil d’Etat, 3 octobre 2008, Commune d'Annecy",
+                      "C": "Conseil d’Etat, 28 décembre 2009, Commune de Béziers"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Depuis l’arrêt du Conseil d’Etat du 18 décembre 2002 Mme Duvignères, font grief les circulaires dont le caractère est :",
+                    "options": {
+                      "A": "impératif",
+                      "B": "interprétatif",
+                      "C": "réglementaire"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Parmi les propositions suivantes, laquelle n'est pas une forme de gestion directe du service public par une personne publique ?",
+                    "options": {
+                      "A": "La régie directe",
+                      "B": "La régie personnalisée",
+                      "C": "La régie accessoire"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Quel arrêt du Tribunal des conflits reconnaît l'existence des services publics à caractère industriel ou commercial ?",
+                    "options": {
+                      "A": "Tribunal des conflits, 22 janvier 1921, Société commerciale de l’Ouest africain",
+                      "B": "Tribunal des conflits, 22 janvier 1955, Naliato",
+                      "C": "Tribunal des conflits, 4 juillet 1983, Gambini"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Vous êtes en poste au sein du service contentieux d'une préfecture. Sur quel support doit être publié l'ensemble des actes réglementaires édictés par les services de l'Etat de votre département pour être opposables aux tiers ?",
+                    "options": {
+                      "A": "Le Recueil des actes administratifs",
+                      "B": "Le Journal officiel de la République française",
+                      "C": "Tout support habilité à recevoir des annonces légales"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Lequel de ces organismes n'est pas un établissement public ?",
+                    "options": {
+                      "A": "L’Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+                      "B": "La Société nationale de sauvetage en mer",
+                      "C": "L’Office français de la biodiversité"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Vous êtes attaché(e) dans un rectorat. Un enseignant géré par votre service a reçu un arrêté de changement d'échelon et souhaite contester cette décision. Il estime que la date de changement d'échelon vers l'échelon supérieur figurant sur son arrêté est erronée. Il peut contester la décision :",
+                    "options": {
+                      "A": "dans les deux mois à compter de l'édition de l'arrêté par votre service de gestion",
+                      "B": "dans les deux mois à compter de la signature de l'arrêté par le recteur d'académie",
+                      "C": "dans les deux mois à compter de la notification de l'arrêté"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Quelle autorité assure l’intérim en cas d’empêchement du Président de la République ?",
+                    "options": {
+                      "A": "Le Président de l’Assemblée nationale",
+                      "B": "Le Président du Sénat",
+                      "C": "Le Premier ministre"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "La Constitution prévoit que le nombre de sénateurs ne peut excéder :",
+                    "options": {
+                      "A": "348",
+                      "B": "288",
+                      "C": "576"
+                    },
+                    "correct": "A"
+                  },
+                  {
+                    "question": "Quelle autorité proclame les résultats de l’élection présidentielle ?",
+                    "options": {
+                      "A": "Le secrétaire général de la Présidence de la République",
+                      "B": "Le ministre de l’intérieur",
+                      "C": "Le Conseil constitutionnel"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "Un référendum, dit d’initiative partagée, peut être organisé, aux termes de l’article 11 de la Constitution, à l'initiative :",
+                    "options": {
+                      "A": "d’un cinquième des membres du Parlement, soutenu par un cinquième des électeurs inscrits sur les listes électorales",
+                      "B": "d’un cinquième des membres du Parlement, soutenu par un dixième des électeurs inscrits sur les listes électorales",
+                      "C": "d’un dixième des membres du Parlement, soutenu par un cinquième des électeurs inscrits sur les listes électorales"
+                    },
+                    "correct": "B"
+                  },
+                  {
+                    "question": "Quels sont les textes figurant dans le bloc de constitutionnalité ?",
+                    "options": {
+                      "A": "La Constitution de 1958",
+                      "B": "La Constitution de 1958, la Déclaration des droits de l'Homme et du Citoyen de 1789, le Préambule de la Constitution de 1946 et la Charte du numérique",
+                      "C": "La Constitution du 4 octobre 1958, la Déclaration des droits de l'Homme et du Citoyen de 1789, le Préambule de la Constitution de 1946 et la Charte de l'environnement de 2004"
+                    },
+                    "correct": "C"
+                  },
+                  {
+                    "question": "La citation selon laquelle « Toute société dans laquelle la garantie des droits n’est pas assurée, ni la séparation des pouvoirs déterminée, n’a point de Constitution », provient :",
+                    "options": {
+                        "A": "de la Constitution du 4 octobre 1958",
+                        "B": "du Préambule de la Constitution du 27 octobre 1946",
+                        "C": "de la Déclaration des droits de l’Homme et du Citoyen du 26 août 1789"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Selon l'article 68 de la Constitution, la destitution du Président de la République est prononcée par le Parlement constitué en :",
+                    "options": {
+                        "A": "Cour de justice de la République",
+                        "B": "Haute Cour",
+                        "C": "Haute Cour de justice"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Dans le cadre d'un empêchement provisoire du Président de la République, quel pouvoir le président par intérim ne peut-il pas exercer ?",
+                    "options": {
+                        "A": "L'organisation d'un référendum",
+                        "B": "La nomination des ministres",
+                        "C": "Le pouvoir d'engager la force nucléaire"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Les membres du Gouvernement auteurs de délits commis dans l'exercice de leurs fonctions sont jugés par :",
+                    "options": {
+                        "A": "la Cour de justice de la République",
+                        "B": "la Haute Cour",
+                        "C": "le tribunal correctionnel de Paris"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Vous êtes responsable des listes électorales dans votre commune et on vous demande de faire un point sur le droit de vote des ressortissants de l’Union européenne. Ces derniers peuvent voter pour :",
+                    "options": {
+                        "A": "les élections présidentielles et européennes",
+                        "B": "les élections européennes et municipales",
+                        "C": "les élections législatives et municipales"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "La révision constitutionnelle du 23 juillet 2008 permet la réunion du Congrès du Parlement :",
+                    "options": {
+                        "A": "pour une révision de la Constitution",
+                        "B": "pour entendre une déclaration du Président de la République",
+                        "C": "pour adopter dans les mêmes termes un texte législatif"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Vous êtes responsable du déroulé des élections législatives et vous devez expliquer aux agents qui travaillent avec vous le mode de scrutin. Vous leur expliquez que les députés sont élus au suffrage universel direct, au :",
+                    "options": {
+                        "A": "scrutin majoritaire à deux tours",
+                        "B": "scrutin majoritaire à un tour",
+                        "C": "scrutin de liste à deux tours"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Un fonctionnaire peut-il se présenter à son poste de travail en tenue exubérante ?",
+                    "options": {
+                        "A": "Oui, en vertu du principe de liberté vestimentaire",
+                        "B": "Non, en vertu de l’obligation de dignité",
+                        "C": "Non, en vertu de l’obligation de neutralité"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Un fonctionnaire, placé sous votre autorité au sein d’une préfecture, vous informe de son projet de publier un récit romancé ayant pour sujet la vie quotidienne dans une administration. Que lui répondez-vous ?",
+                    "options": {
+                        "A": "En tant que fonctionnaire, il ne peut exercer aucune autre activité rémunérée",
+                        "B": "La publication d’une œuvre de l’esprit par un fonctionnaire est libre, dans les limites du respect du code de la propriété intellectuelle et des obligations déontologiques",
+                        "C": "La publication d’une œuvre de l’esprit par un fonctionnaire est soumise à l’autorisation préalable de sa hiérarchie, doit respecter le code de la propriété intellectuelle et ne pas contrevenir aux obligations déontologiques"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Vous êtes chef(fe) de bureau. Un de vos agents est victime d'injures et menaces dans l'exercice de ses fonctions par un usager : quel dispositif pouvez-vous proposer à l'agent dans le cadre de la prise en charge par l'administration de cette situation ?",
+                    "options": {
+                        "A": "La protection juridique",
+                        "B": "La protection judiciaire",
+                        "C": "La protection fonctionnelle"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "En tant que chef(fe) de service au sein d'une administration, quels indicateurs utilisez-vous afin de diagnostiquer les risques psychosociaux de votre service ?",
+                    "options": {
+                        "A": "Le taux d'absentéisme, le taux de rotation des agents, le nombre d'actes de violence envers les agents",
+                        "B": "Le nombre de congés pris, la pyramide des âges, le taux de mobilité interne",
+                        "C": "La part des agents en télétravail, le taux de formation des agents, la part de dépenses de fonctionnement"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Vous êtes chef(fe) de service et un de vos agents décide de faire grève de façon inopinée : comment réagissez-vous ?",
+                    "options": {
+                        "A": "Vous laissez l'agent exercer son droit de grève",
+                        "B": "Vous rappelez à l'agent que la grève doit être précédée d'un préavis et qu'il s'expose à des sanctions disciplinaires",
+                        "C": "Vous décomptez une journée au titre des congés à l'agent gréviste"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Vous êtes chef(fe) de bureau. Un agent placé sous votre autorité souhaite recourir au télétravail pour la première fois et vous sollicite pour savoir s'il peut bénéficier d'une indemnité pour recouvrer les frais engagés dans ce cadre. Vous lui indiquez :",
+                    "options": {
+                        "A": "qu'il n'existe aucun dispositif de la sorte à ce jour",
+                        "B": "qu'il existe un forfait télétravail fixé à 3,50 € par journée de télétravail effectuée",
+                        "C": "qu'il existe un forfait télétravail fixé à 2,50 € par journée de télétravail effectuée dans la limite de 220 € par an"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Il est interdit au fonctionnaire d’exprimer ses opinions personnelles à l’intérieur ou à l’extérieur du service dès lors que ses propos entravent le fonctionnement du service ou jettent le discrédit sur l'administration. Il s’agit de :",
+                    "options": {
+                        "A": "l'obligation de secret professionnel",
+                        "B": "l'obligation de réserve",
+                        "C": "l'obligation de discrétion professionnelle"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Les commissions administratives paritaires sont compétentes pour émettre un avis sur :",
+                    "options": {
+                        "A": "les demandes de congé parental",
+                        "B": "les demandes de révision du compte rendu d'entretien professionnel",
+                        "C": "les propositions de promotion et d'avancement"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Dans votre service, un agent à temps plein souhaite cumuler une activité avec son emploi. Vous pouvez l’autoriser à :",
+                    "options": {
+                        "A": "donner des consultations, des expertises ou à plaider en justice",
+                        "B": "exercer une activité accessoire d’enseignement",
+                        "C": "être gérant d’une société"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quelle nouvelle instance de représentation du personnel sera mise en place à l'issue des prochaines élections professionnelles de la fonction publique du 8 décembre 2022?",
+                    "options": {
+                        "A": "Le comité social",
+                        "B": "Le comité technique",
+                        "C": "Le comité d’hygiène, de sécurité et des conditions de travail"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Selon la loi du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires, à compter de la date où elle a eu connaissance de la faute commise, dans quel délai l'administration peut-elle intenter une action disciplinaire contre l'un de ses agents ?",
+                    "options": {
+                        "A": "6 mois",
+                        "B": "1 an",
+                        "C": "3 ans"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Vous êtes chef(fe) de service dans une direction départementale de l'emploi, du travail et des solidarités. Un agent de votre service vous fait part de son souhait de quitter ses fonctions. Les jours suivants, cet agent ne se présente plus sur son lieu de travail. Il est :",
+                    "options": {
+                        "A": "en situation de démission",
+                        "B": "en situation de rupture conventionnelle",
+                        "C": "en situation d'abandon de poste"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Vous êtes attaché d’administration au ministère de l'intérieur et des outre-mer et souhaitez effectuer une mobilité vers un poste d'attaché au ministère de l'éducation nationale et de la jeunesse. Pour effectuer votre mobilité, vous allez solliciter :",
+                    "options": {
+                        "A": "une demande de détachement",
+                        "B": "une demande de mobilité inter-fonction publique",
+                        "C": "une demande de mobilité au sein du corps interministériel à gestion ministérielle des attachés d’administration de l’Etat"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Vous êtes responsable des ressources humaines dans un rectorat. Un agent vient vous consulter pour connaître les possibilités qui lui sont offertes pour bénéficier d'un temps de préparation personnel pour se préparer à un concours ou examen professionnel. Vous l’informez de :",
+                    "options": {
+                        "A": "la nécessité de poser un congé",
+                        "B": "la possibilité de solliciter une autorisation d'absence auprès de son supérieur hiérarchique dans la limite de 5 jours au total par année civile",
+                        "C": "la possibilité d'utiliser son compte épargne temps et à défaut son CPF dans la limite de 5 jours au total par année civile"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Un conseiller régional a été élu en 2021. En quelle année son mandat devra-t-il être renouvelé ?",
+                    "options": {
+                        "A": "2025",
+                        "B": "2026",
+                        "C": "2027"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Qu'est-ce qu'une métropole ?",
+                    "options": {
+                        "A": "Un établissement public de coopération interrégionale à fiscalité propre",
+                        "B": "Un établissement public de coopération intercommunale à fiscalité propre",
+                        "C": "Un établissement public de coopération interdépartementale à fiscalité propre"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quel type de contrat de recrutement d'agents non titulaires a été créé par la loi du 6 août 2019 dite « Loi de transformation de la fonction publique » ?",
+                    "options": {
+                        "A": "Le contrat de mission",
+                        "B": "Le contrat de projet",
+                        "C": "Le contrat d'objectif"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Vous accueillez un stagiaire attaché et devez lui expliquer le fonctionnement de la nouvelle bonification indiciaire (NBI). Vous précisez qu'elle est attribuée :",
+                    "options": {
+                        "A": "en fonction de l'emploi occupé",
+                        "B": "en fonction de la catégorie de l'agent qui l'occupe",
+                        "C": "en fonction de la catégorie de l'agent et du niveau de responsabilité de l'emploi occupé"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Une circulaire qui comporte une interprétation du droit positif doit faire l’objet d’une publication :",
+                    "options": {
+                        "A": "dans les vingt-quatre heures suivant sa signature",
+                        "B": "dans les quatre mois suivant sa signature",
+                        "C": "dans les deux mois suivant sa signature"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quel est le statut de la Corse ?",
+                    "options": {
+                        "A": "Une collectivité territoriale",
+                        "B": "Une collectivité à statut particulier au sens de l’article 72 de la Constitution",
+                        "C": "Une collectivité d’outre-mer"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quelle juridiction a compétence pour statuer sur les recours formés contre les décisions rendues par l'Office français de protection des réfugiés et apatrides (OFPRA) :",
+                    "options": {
+                        "A": "la Commission des recours des réfugiés",
+                        "B": "la Cour administrative du droit d'asile",
+                        "C": "la Cour nationale du droit d'asile"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Qui est secrétaire général du Gouvernement ?",
+                    "options": {
+                        "A": "Marc Guillaume",
+                        "B": "Stéphane Bouillon",
+                        "C": "Claire Landais"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Quelle loi transfère les compétences de la commune en matière de plan local d'urbanisme à l'intercommunalité ?",
+                    "options": {
+                        "A": "La loi du 27 janvier 2014 dite loi MAPTAM",
+                        "B": "La loi du 7 aout 2015 dite loi NOTRe",
+                        "C": "La loi du 24 mars 2014 dite loi ALUR"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "L'aide sociale à l'enfance est un service relevant :",
+                    "options": {
+                        "A": "de la commune",
+                        "B": "du département",
+                        "C": "de la région"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Les présidents de chambres de la Cour des comptes sont nommés :",
+                    "options": {
+                        "A": "par décret simple",
+                        "B": "par décret en Conseil d'Etat",
+                        "C": "par décret du Président de la République"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Vous êtes chargé du contentieux au ministère de l’intérieur. Un recours que vous avez à traiter est dirigé contre une élection régionale, vous saisissez :",
+                    "options": {
+                        "A": "le Conseil d’Etat compétent en première instance",
+                        "B": "le tribunal administratif où l’élection a eu lieu",
+                        "C": "le Conseil constitutionnel, juge de toutes les élections"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Le Conseil d’État a admis dans son arrêt Jamart de 1936 que :",
+                    "options": {
+                        "A": "le ministre dispose d’un pouvoir réglementaire pour organiser ses services",
+                        "B": "le Premier ministre dispose d’un pouvoir réglementaire pour organiser ses services",
+                        "C": "la Commission nationale de l’informatique et des libertés et le Conseil supérieur de l’audiovisuel disposent d’un pouvoir réglementaire afin de mener à bien leur mission"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Vous êtes en poste au sein de la direction départementale des territoires. Il revient à votre service d'organiser une enquête publique concernant un projet faisant l'objet d'une évaluation environnementale. Parmi les 3 propositions suivantes, laquelle est exacte :",
+                    "options": {
+                        "A": "l'enquête pourra être conduite par une commission d'enquête dont la composition et les membres seront choisis par le préfet",
+                        "B": "la durée de l'enquête publique ne sera pas inférieure à trente jours",
+                        "C": "l'avis rendu par la commission d'enquête liera l'autorité administrative pour autoriser ou non le projet en jeu"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Vous êtes chef de bureau en charge des collectivités locales au sein d'une préfecture. Un agent de votre service vous sollicite afin de connaître les modalités de la création d'un établissement public de coopération intercommunale. Vous lui répondez :",
+                    "options": {
+                        "A": "qu’une décision du tribunal administratif est requise",
+                        "B": "qu’un arrêté ministériel est nécessaire",
+                        "C": "qu’un arrêté préfectoral est impératif"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Quelle base juridique confère au Président de la République des pouvoirs exceptionnels ?",
+                    "options": {
+                        "A": "L’article 11 de la Déclaration des Droits de l’Homme et du Citoyen",
+                        "B": "L'article 16 de la Constitution",
+                        "C": "L'article 20 de la Constitution"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Sous la Ve République, l'Assemblée nationale a été dissoute à :",
+                    "options": {
+                        "A": "quatre reprises",
+                        "B": "cinq reprises",
+                        "C": "six reprises"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Le responsable de la zone de défense et de sécurité de Paris est :",
+                    "options": {
+                        "A": "le Gouverneur militaire de Paris",
+                        "B": "le préfet de police de Paris",
+                        "C": "le préfet de Paris, préfet de la région Île de France"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Vous êtes le référent laïcité d'un établissement public. Un agent vous sollicite pour savoir s'il peut bénéficier d'une autorisation d'absence à l'occasion d'une fête religieuse. Vous lui indiquez que son chef de service :",
+                    "options": {
+                        "A": "ne peut lui accorder une telle autorisation en vertu du principe de laïcité",
+                        "B": "peut lui accorder une telle autorisation si les nécessités de service le permettent",
+                        "C": "doit lui accorder obligatoirement une telle autorisation"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Vous êtes adjoint gestionnaire chargé de l’élaboration du budget d’un établissement public local d’enseignement. La dotation allouée par la collectivité de rattachement est en diminution de 20% par rapport à l’exercice précédent. Pour réaliser l’équilibre du budget que vous allez présenter dans quelques jours, vous pouvez :",
+                    "options": {
+                        "A": "prélever sur les fonds de roulement de l’établissement",
+                        "B": "solliciter une dotation complémentaire auprès des services financiers de la collectivité de rattachement",
+                        "C": "solliciter une dotation complémentaire auprès de la direction des services départementaux de l’éducation nationale"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Vous êtes chef(fe) d'un centre financier de services partagés et un gestionnaire budgétaire de votre service voudrait pouvoir exercer à mi-temps ses fonctions ainsi que celles de régisseur d'avances et de recettes au sein de la même structure. Vous lui indiquez que :",
+                    "options": {
+                        "A": "cela est possible, sous réserve d'adresser une demande sous-couvert de la hiérarchie, à l'attention de la direction des ressources humaines, et ce, au moins trois mois avant la date d'effet",
+                        "B": "cela est organiquement incompatible au nom du principe de séparation des ordonnateurs et des comptables",
+                        "C": "que la prime de régisseur sera proratisée"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quel est le montant des dépenses fiscales en 2020 ?",
+                    "options": {
+                        "A": "40 milliards d'euros",
+                        "B": "65 milliards d'euros",
+                        "C": "89 milliards d'euros"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Les marchés de l'Etat et de ses établissements peuvent être passés sans publicité, ni mise en concurrence préalables, si leur montant est inférieur à :",
+                    "options": {
+                        "A": "5 000 euros HT",
+                        "B": "25 000 euros HT",
+                        "C": "40 000 euros HT"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Parmi ces propositions, laquelle ne fait pas partie des dépenses de personnel ?",
+                    "options": {
+                        "A": "Les charges sociales imputables à l'employeur",
+                        "B": "Les impôts et taxes assis sur la rémunération",
+                        "C": "Les dépenses d'action sociale au profit des agents de l'Etat"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "D'après le schéma prévisionnel de consommation du plafond d'autorisation d'emplois, y a-t-il, en termes d'ETPT (équivalent temps plein travaillé), une équivalence entre un agent à mi-temps présent toute l'année et un agent à temps complet présent sur une période de 6 mois ?",
+                    "options": {
+                        "A": "Non",
+                        "B": "Oui",
+                        "C": "Oui, sous certaines conditions"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Le traité sur la stabilité, la coordination et la croissance (TSCG), adopté en 2012, interdit à un Etat membre de l’Union européenne d’avoir un déficit structurel dépassant :",
+                    "options": {
+                        "A": "0,5 % de son PIB (ou 1 % pour les pays dont la dette ne dépasse pas 60 % du PIB)",
+                        "B": "3 % de son PIB (ou 5 % pour les pays dont la dette ne dépasse pas 60 % du PIB)",
+                        "C": "5 % de son PIB (ou 3 % pour les pays dont la dette ne dépasse pas 60 % du PIB)"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Au sens du code des juridictions financières :",
+                    "options": {
+                        "A": "tous les agents publics, les membres du Gouvernement et les ordonnateurs, élus locaux, sont justiciables de la Cour de discipline budgétaire et financière",
+                        "B": "les membres du Gouvernement et les ordonnateurs, élus locaux, ne sont pas justiciables de la Cour de discipline budgétaire et financière",
+                        "C": "les membres du Gouvernement ne sont pas justiciables de la Cour de discipline budgétaire et financière, et les ordonnateurs, élus locaux, ne le sont que dans certains cas exceptionnels"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Votre service réceptionne un questionnaire relatif à la préparation de la note d’exécution budgétaire de la mission afférente à votre ministère. L’institution pour laquelle vous préparez les éléments de réponse est :",
+                    "options": {
+                        "A": "la Cour des comptes",
+                        "B": "la direction du budget au sein du ministère de l’économie, des finances et de la souveraineté industrielle et numérique",
+                        "C": "le Parlement"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Le principe d'unité de caisse implique :",
+                    "options": {
+                        "A": "que tous les fonds de l'Etat sont gérés par la Caisse des dépôts et des consignations",
+                        "B": "que toutes les administrations de l'Etat disposent chacune d'un compte bancaire unique",
+                        "C": "que tous les fonds de l'Etat sont gérés par le Trésor public"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Pour quelle raison existe-t-il une séparation entre l'ordonnateur et le comptable ?",
+                    "options": {
+                        "A": "Pour éviter la gestion de fait",
+                        "B": "Pour permettre le suivi du paiement des dépenses",
+                        "C": "Pour permettre un meilleur contrôle des comptes publics"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "La loi organique du 28 décembre 2021 relative à la modernisation de la gestion des finances publiques a créé les lois de finances :",
+                    "options": {
+                        "A": "de rationalisation",
+                        "B": "de fin de gestion",
+                        "C": "de régularisation"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Lors du vote du budget, quel article de la Constitution interdit au Parlement de créer ou d’aggraver une charge publique ?",
+                    "options": {
+                        "A": "L’article 34",
+                        "B": "L’article 40",
+                        "C": "L’article 47"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Une mission du budget de l’Etat est :",
+                    "options": {
+                        "A": "obligatoirement interministérielle",
+                        "B": "obligatoirement ministérielle",
+                        "C": "soit ministérielle soit interministérielle"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Le processus annuel de certification des comptes de l’Etat :",
+                    "options": {
+                        "A": "relève du Parlement, qui vote l’acte annuel de certification en application de l’article 47-2 de la Constitution",
+                        "B": "relève du Parlement qui vote l’acte annuel de certification en application de l’article 58 de la loi organique relative aux lois de finances (LOLF)",
+                        "C": "relève de la Cour des comptes en application de l’article 58 de la LOLF"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "En tant qu’attaché(e) d’administration de l’Etat affecté(e) sur des fonctions budgétaires, vous contribuez directement à deux des quatre temps budgétaires qui se succèdent :",
+                    "options": {
+                        "A": "l’adoption et l’exécution du budget de l’Etat",
+                        "B": "l’exécution et le contrôle de l’exécution du budget de l’Etat",
+                        "C": "la préparation et la mise en œuvre du budget de l’Etat"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "À quel montant s'élève la dette publique à la fin du 4 ème trimestre 2021 ?",
+                    "options": {
+                        "A": "1 215,1 milliards d'euros",
+                        "B": "2 813,1 milliards d'euros",
+                        "C": "2 000,1 milliards d'euros"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "A quoi correspond le schéma d’emplois :",
+                    "options": {
+                        "A": "à la différence entre le plafond d’emplois de l’année n-1 et celui de l’année n",
+                        "B": "à la différence entre la consommation d’emplois entre l’année n-1 et celle de l’année n",
+                        "C": "à l’augmentation ou à la diminution en ETPT de la dotation en emplois des missions du budget de l’Etat"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Qui est le responsable de la fonction financière ministérielle (RFFIM) ?",
+                    "options": {
+                        "A": "Le secrétaire général du ministère",
+                        "B": "Le directeur des affaires financières du ministère",
+                        "C": "Le contrôleur budgétaire et comptable ministériel"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Quelle proposition correspond à une des caractéristiques d’une loi de programmation ?",
+                    "options": {
+                        "A": "Une loi de programmation est une loi d’exception qui n’est pas soumise à l’examen du Parlement",
+                        "B": "Une loi de programmation ne porte aucune dépense de masse salariale",
+                        "C": "Une loi de programmation est une loi pluriannuelle qui déroge au principe d’annualité"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "La Convention européenne des droits de l'Homme a été plusieurs fois amendée par :",
+                    "options": {
+                        "A": "protocoles",
+                        "B": "amendements",
+                        "C": "avenants"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "La Charte des droits fondamentaux a une valeur juridique :",
+                    "options": {
+                        "A": "inférieure aux Traités",
+                        "B": "supérieure aux Traités",
+                        "C": "égale aux Traités"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Le Conseil européen réunit :",
+                    "options": {
+                        "A": "les commissaires européens",
+                        "B": "les ministres des affaires étrangères des pays membres de l’Union européenne",
+                        "C": "les chefs d’Etat et de gouvernement des pays membres de l’Union européenne"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Les membres du Parlement européen sont élus au :",
+                    "options": {
+                        "A": "suffrage restreint",
+                        "B": "suffrage universel direct",
+                        "C": "suffrage universel indirect"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Parmi les domaines de compétences suivants de l’Union européenne, lequel est un domaine de compétence partagée ?",
+                    "options": {
+                        "A": "L’agriculture et la pêche, à l’exclusion de la conservation des ressources biologiques de la mer",
+                        "B": "La politique monétaire pour les pays de la zone euro",
+                        "C": "L’établissement de règles de concurrence nécessaires au fonctionnement du marché intérieur"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "La transposition d’une directive européenne en droit national est :",
+                    "options": {
+                        "A": "obligatoire dans un délai donné",
+                        "B": "obligatoire sans qu’un délai ne soit précisé",
+                        "C": "facultative"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Quels sont les 6 pays fondateurs de l'Union européenne ?",
+                    "options": {
+                        "A": "Pays-Bas, Luxembourg, France, Allemagne, Danemark et Belgique",
+                        "B": "Luxembourg, Pays-Bas, Italie, France, Allemagne et Belgique",
+                        "C": "Portugal, Luxembourg, Italie, France, Allemagne et Belgique"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Les pays et territoires d’outre-mer :",
+                    "options": {
+                        "A": "ne font pas partie de l’Union européenne",
+                        "B": "font partie de l’Union européenne",
+                        "C": "sont soumis au droit européen sans pour autant faire partie de l’Union européenne"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "L’adhésion d’un nouveau pays à l’Union européenne nécessite :",
+                    "options": {
+                        "A": "une approbation du Parlement européen",
+                        "B": "un vote des citoyens des pays membres de l’Union européenne",
+                        "C": "un vote à la majorité qualifiée des citoyens du pays candidat"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Quelle nouvelle ressource propre de l’Union européenne a été mise en place au 1er janvier 2021 ?",
+                    "options": {
+                        "A": "Une taxe carbone pour les marchandises importées dans l’Union européenne",
+                        "B": "Une taxe sur les déchets plastiques non recyclés",
+                        "C": "Une taxe sur le numérique"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Le poste de Haut représentant de l’Union pour les affaires étrangères et la politique de sécurité a été créé par :",
+                    "options": {
+                        "A": "le Traité de Nice du 26 février 2001",
+                        "B": "le Traité de Maastricht du 7 février 1992",
+                        "C": "le Traité de Lisbonne du 13 décembre 2007"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Quel pays n’est pas membre de l’Union européenne parce qu’il a renoncé à sa demande d’adhésion à l’Union en 2015 ?",
+                    "options": {
+                        "A": "L’Islande",
+                        "B": "La Norvège",
+                        "C": "L’Albanie"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Le président du Conseil européen est élu par le Conseil européen :",
+                    "options": {
+                        "A": "à la majorité absolue",
+                        "B": "à la majorité qualifiée",
+                        "C": "il n’est pas élu ; il est nommé par le Parlement européen"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quelles sont les trois principales compétences de la Commission européenne ?",
+                    "options": {
+                        "A": "Adopter les textes législatifs de l’Union européenne, coordonner les politiques des Etats membres, définir la politique étrangère et de sécurité",
+                        "B": "Exercer un pouvoir d’initiative législative, veiller au respect et à l’application du droit européen, exercer un pouvoir d’exécution des politiques et des actes adoptés par le Parlement et le Conseil de l’Union européenne",
+                        "C": "Adopter les actes législatifs de l’Union européenne, arrêter les orientations sur les priorités budgétaires de l’Union européenne, créer des commissions temporaires d’enquête"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Le président du Parlement européen est élu pour un mandat :",
+                    "options": {
+                        "A": "renouvelable de cinq ans",
+                        "B": "non renouvelable de cinq ans",
+                        "C": "renouvelable de deux ans et demi"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Le Comité européen des régions :",
+                    "options": {
+                        "A": "est une institution décisionnelle en matière de politique de l’environnement et de cohésion",
+                        "B": "est une institution qui contrôle l’utilisation des fonds versés aux Etats membres de l’Union européenne dans le cadre de la politique régionale européenne",
+                        "C": "est un organe consultatif qui émet des avis sur toute proposition ayant un impact sur les collectivités territoriales de l’Union européenne"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Les pays membres de l'espace Schengen sont au nombre de :",
+                    "options": {
+                        "A": "26 dont 22 sont membres de l'Union européenne",
+                        "B": "28 dont 23 sont membres de l'Union européenne",
+                        "C": "31 dont 20 sont membres de l'Union européenne"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Dans le cadre de la politique européenne de la concurrence, les aides d’Etat ne sont pas autorisées car elles sont incompatibles avec le marché unique :",
+                    "options": {
+                        "A": "lorsqu’elles faussent ou menacent de fausser la concurrence en favorisant certaines entreprises ou productions affectant ainsi les échanges entre Etats membres de l’Union européenne",
+                        "B": "lorsqu’elles visent à aider au développement économique de régions dans lesquelles le niveau de vie est anormalement bas",
+                        "C": "lorsqu’elles ont un caractère social et sont octroyées aux consommateurs individuels sans discrimination liée à l’origine des produits"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "En poste à la délégation aux affaires européennes et internationales du secrétariat général du ministère de la justice, vous animez une formation et devez présenter l’agence européenne Eurojust. Vous expliquez qu’elle est chargée de :",
+                    "options": {
+                        "A": "diriger des enquêtes et mener des poursuites pénales contre les auteurs d’infractions graves réalisées dans un des pays membres de l’Union européenne",
+                        "B": "coordonner une réforme du système juridictionnel européen en vue de la création d’une Cour d’assises au sein de la Cour de justice de l’Union européenne",
+                        "C": "renforcer la coordination et la coopération entre les autorités nationales chargées des enquêtes et des poursuites relatives à la criminalité grave affectant deux ou plusieurs Etats membres de l’Union européenne"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Parmi ces pays, lequel n'est pas un Etat membre du Conseil de l'Europe ?",
+                    "options": {
+                        "A": "La Suisse",
+                        "B": "La Biélorussie",
+                        "C": "L'Ukraine"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "A quoi sert le VPN (Virtual Private Network ou Réseau Privé Virtuel) ?",
+                    "options": {
+                        "A": "Il s'occupe du partage des fichiers et de faire des sauvegardes de données régulièrement",
+                        "B": "Il désigne un réseau crypté qui permet à une société dont les locaux seraient géographiquement dispersés de communiquer et partager de documents de manière sécurisée",
+                        "C": "Il permet de gérer les e-mails, la connexion internet et la sécurité informatique"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Que contient le volet cybersécurité du plan France Relance ?",
+                    "options": {
+                        "A": "Une décision du gouvernement destinée à relancer l’e-commerce en France",
+                        "B": "Une volonté gouvernementale destinée à rehausser le niveau de cyber sécurité de certaines entités de l’Etat",
+                        "C": "Un plan architectural destiné à réorganiser l’écosystème cyber français"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quelle est l’autorité nationale en matière de cybersécurité ?",
+                    "options": {
+                        "A": "Le COMCYBER (commandement de la cyberdéfense)",
+                        "B": "L’ANSSI (agence nationale de la sécurité des systèmes d’information)",
+                        "C": "Le COMCYBERGEND (commandement de la gendarmerie dans le cyberespace)"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quel texte définit la conduite à tenir pour l’Etat en cas d’attaque mondiale Cyber ?",
+                    "options": {
+                        "A": "La loi de programmation militaire (LPM)",
+                        "B": "Le code pénal",
+                        "C": "La directive sécurité des réseaux et de l’information (SRI)"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Vous êtes directeur général des services dans une mairie. Dans quel cas contactez-vous la Commission nationale de l’informatique et des libertés (CNIL) ?",
+                    "options": {
+                        "A": "Si le réseau Très haut débit ne fonctionne pas sur le territoire de la commune",
+                        "B": "Si le maire vous sollicite pour faire un audit des systèmes d’information d’importances vitales (SIIV) de votre commune",
+                        "C": "Si vous constatez une fuite de données personnelles"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Vous êtes en charge de la gestion des réseaux informatiques d’un établissement public. Vous venez d’apprendre que vos systèmes d’information (SI) systèmes d’information sont bloqués, cryptés et qu’une demande de rançon de 50 bitcoins est demandée. Que faites-vous ?",
+                    "options": {
+                        "A": "Vous payez la rançon",
+                        "B": "Vous négociez et payez la rançon",
+                        "C": "Vous rendez compte de la situation à l’ANSSI et allez porter plainte"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "En charge de la sécurité des SI de votre entité, vous avez subi une attaque cyber qui est désormais résolue.Quel est votre premier réflexe ?",
+                    "options": {
+                        "A": "Rebrancher les systèmes et reprendre le travail au plus vite",
+                        "B": "Ajouter quelques protections supplémentaires",
+                        "C": "Reconstruire intégralement l’architecture informatique de votre SI en y mettant les protections nécessaires"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Quelle est l’autorité de rattachement de l’ANSSI ?",
+                    "options": {
+                        "A": "La direction interministérielle du numérique",
+                        "B": "Le secrétariat général de la Défense et de la Sécurité nationale",
+                        "C": "Le ministère des armées"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Le règlement général sur la protection des données (RGPD) :",
+                    "options": {
+                        "A": "a été rendu applicable dans certains Etats de l’Union européenne dès lors qu’ils l’ont transposé",
+                        "B": "est directement applicable dans tous les États membres de l’Union européenne",
+                        "C": "sera automatiquement applicable au Royaume-Uni après le Brexit puisqu’il a été adopté avant"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "« France transfert » est un outil permettant :",
+                    "options": {
+                        "A": "le transfert de fonds",
+                        "B": "l’envoi de fichiers volumineux",
+                        "C": "l’utilisation d’une messagerie instantanée"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Que désigne la fracture numérique ?",
+                    "options": {
+                        "A": "L’absence de connaissance en informatique",
+                        "B": "L’inégalité en termes d’accès et d’usage numériques",
+                        "C": "Le piratage d’un réseau informatique"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Qu’est-ce que l’illectronisme ?",
+                    "options": {
+                        "A": "L’incapacité de lire un texte que ce soit sous format papier ou numérique",
+                        "B": "Une absence de compétences nécessaires à l’utilisation des ressources numériques",
+                        "C": "Une allergie aux composants informatiques"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Que recouvre le dispositif Territoire Numérique Éducatif (TNE) ?",
+                    "options": {
+                        "A": "Une expérimentation consistant à rendre le très haut débit obligatoire dans toutes les communes comptant plus de 5 écoles",
+                        "B": "Une expérimentation mise en place dans quelques départements et consistant à favoriser la continuité pédagogique, à réduire la fracture numérique et à encourager l’accélération des usages du numérique au service de la réussite des élèves",
+                        "C": "Un dispositif visant à introduire l’usage exclusif du numérique éducatif dans les territoires comptant le plus grand nombre d’élèves décrocheurs"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Le programme France Identité Numérique lancé en 2018 est chargé de concevoir et mettre en œuvre :",
+                    "options": {
+                        "A": "un service d’identification numérique pour l’ensemble des citoyens",
+                        "B": "un portail agent interministériel de gestion des ressources humaines",
+                        "C": "des guichets numériques d’accueil des étrangers en France"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Un rapport du Sénat du mois de mai 2022 relatif à la reconnaissance biométrique dans l’espace public contient des propositions pour :",
+                    "options": {
+                        "A": "écarter le risque d’une société de surveillance",
+                        "B": "généraliser la reconnaissance faciale au sein des services publics",
+                        "C": "assouplir le principe de consentement des usagers en supprimant la distinction entre authentification et identification"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Pour quelles raisons la présidente de la CNIL a mis en demeure en mai 2022 près de 22 communes françaises ?",
+                    "options": {
+                        "A": "Parce qu’elles refusaient d’appliquer le principe de communication des documents administratifs à tout citoyen qui en fait la demande",
+                        "B": "Parce qu’elles refusaient de mettre en place un système de vidéo surveillance des espaces publics",
+                        "C": "Parce qu’elles n’avaient toujours pas désigné de délégué à la protection des données"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "Les opérateurs économiques chargés de la conclusion de marchés publics sont amenés à mettre en œuvre des traitements de données personnelles, en particulier de données relatives aux personnels ou aux usagers du service public. Ces traitements doivent nécessairement être réalisés dans le respect des dispositions :",
+                    "options": {
+                        "A": "du RGPD qui fixent, au bénéfice des personnes concernées, un certain nombre d’obligations à la charge des organismes qui y procèdent",
+                        "B": "du code de la commande publique qui prévoient les règles et procédures que les pouvoirs adjudicateurs et les entités adjudicatrices doivent respecter pour leurs achats en matière de travaux, de fournitures et de services",
+                        "C": "du code général de la fonction publique qui rassemblent l'ensemble des règles applicables au droit de la fonction publique"
+                    },
+                    "correct": "A"
+                },
+                {
+                    "question": "Vous êtes en déplacement à l’étranger et vous souhaitez lire en toute sécurité vos mails professionnels :",
+                    "options": {
+                        "A": "vous vous connectez au réseau wifi de l’hôtel non sécurisé",
+                        "B": "vous utilisez un partage de connexion compatible avec la Charte de sécurité informatique de votre département ministériel",
+                        "C": "vous allez sur les ordinateurs mis à votre disposition par l’hôtel"
+                    },
+                    "correct": "B"
+                },
+                {
+                    "question": "Quelle est la mission d' \"ETALAB\" ?",
+                    "options": {
+                        "A": "Créer un site Internet interministériel",
+                        "B": "Connecter les établissements scolaires entre eux",
+                        "C": "Coordonner la conception et la mise en œuvre de la stratégie de l’Etat dans le domaine de la donnée"
+                    },
+                    "correct": "C"
+                },
+                {
+                    "question": "La loi pour une République numérique a été promulguée le 7 octobre 2016. Elle entend :",
+                    "options": {
+                        "A": "généraliser le vote électronique pour l’ensemble des scrutins nationaux, afin de contenir l’abstention électorale ;",
+                        "B": "encourager l’innovation et l’économie numérique, promouvoir une société numérique protectrice et garantir l’accès de tous au numérique ;",
+                        "C": "encourager et promouvoir l’utilisation du numérique, dans un souci de développement durable et de limitation de l’usage du papier pour faire face notamment à la pénurie croissante de certaines matières premières."
+                    },
+                    "correct": "B"
+                }
+
+        ]
