@@ -197,7 +197,11 @@
             width: 10%;
         }
 
-        /*pour téléphone*/
+        @media only screen and (max-width: 768px) {
+        .sidebar {
+        display: none;
+        }
+        }
         @media (max-width: 600px) {
         table {
         width: 90%; /* Largeur du tableau sur mobile */
