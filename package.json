@@ -1,0 +1,26 @@
+{
+    "name": "testify",
+    "version": "1.0.0",
+    "description": "QCM d'entraînement.",
+    "main": "index.html",
+    "scripts": {
+      "test": "echo \"Aucun test spécifié\" && exit 0",
+      "start": "node index.js"
+    },
+    "keywords": [
+      "qcm",
+      "concours",
+      "entraînement"
+    ],
+    "author": "Bill",
+    "license": "CC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "axios": "^0.21.1"
+    },
+    "devDependencies": {
+      "jest": "^27.0.0",
+      "nodemon": "^2.0.7" 
+    }
+  }
+  
