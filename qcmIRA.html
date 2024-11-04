@@ -305,7 +305,7 @@
     <div id="content">
         <h1>QCM du concours d'entrée à l'IRA</h1>
         <p style="text-align: justify; margin-left: 5px;">Le QCM comporte 20 questions tirées au hasard parmi 238 questions type que vous retrouverez à l'examen d'entrée de l'IRA.<br><br> 
-           Vous avez 3 minutes et 30 secondes pour répondre à l'ensemble des questions. Vous pouvez trouver ce temps imparti un peu court, mais cela empêche quiconque de vouloir tricher. Et de toute façon, sur un QCM, soit on sait soit on ne sait pas, vous n'avez donc pas besoin de plus de temps pour répondre à ces 20 petites questions.<br><br>
+           Vous avez 4 minutes et 30 secondes pour répondre à l'ensemble des questions. Vous pouvez trouver ce temps imparti un peu court, mais cela empêche quiconque de vouloir tricher. Et de toute façon, sur un QCM, soit on sait soit on ne sait pas, vous n'avez donc pas besoin de plus de temps pour répondre à ces 20 petites questions.<br><br>
            Si votre performance le permet, vous aurez alors la possibilité d'entrer dans le classement. <br><br>
            Chaque bonne réponse vous fait gagner 1000 points, chaque mauvaise réponse vous fait perdre 500 points. Si vous cliquez sur "Je ne sais pas" vous ne perdrez pas de point. Pour pouvoir départager 2 concurrents qui obtiendraient le même nombre de bonnes réponses, vous obtiendrez 1 point par seconde restante (si vous arrivez à finir dans les temps).</p>
         <button class="buttonprin" onclick="startQuiz()">Commencer le QCM</button>
@@ -362,7 +362,7 @@
         let bonnerep = 0;
         let mauvaiserep = 0;
         let scorefin = 0;
-        let secondsLeft = 210;
+        let secondsLeft = 270;
         let usedIndexes = new Set();
         let timerInterval;
         let recapitulatif = [];
@@ -508,7 +508,7 @@
             mauvaiserep = 0;
             afficherMessage("");
             usedIndexes.clear();
-            secondsLeft = 210;
+            secondsLeft = 270;
             console.log("QCM terminé. Score réinitialisé.");
         }
 
@@ -586,7 +586,7 @@
             bonnerep = 0;
             mauvaiserep = 0;
             scorefin = 0;
-            secondsLeft = 210; // Réinitialiser le temps
+            secondsLeft = 270; // Réinitialiser le temps
             usedIndexes.clear(); // Réinitialiser les index utilisés
             recapitulatif = []; // Réinitialiser le récapitulatif
         }
@@ -624,7 +624,7 @@
             bonnerep = 0;
             mauvaiserep = 0;
             usedIndexes.clear();
-            secondsLeft = 210;
+            secondsLeft = 270;
             document.getElementById("question-box").style.display = "none";
             document.getElementById("recapitulatif-container").style.display = "none";
             document.getElementById("content").style.display = "block";
