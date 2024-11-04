@@ -307,7 +307,7 @@
         <p style="text-align: justify; margin-left: 5px;">Le QCM comporte 20 questions tirées au hasard parmi 238 questions type que vous retrouverez à l'examen d'entrée de l'IRA.<br><br> 
            Vous avez 3 minutes et 30 secondes pour répondre à l'ensemble des questions. Vous pouvez trouver ce temps imparti un peu court, mais cela empêche quiconque de vouloir tricher. Et de toute façon, sur un QCM, soit on sait soit on ne sait pas, vous n'avez donc pas besoin de plus de temps pour répondre à ces 20 petites questions.<br><br>
            Si votre performance le permet, vous aurez alors la possibilité d'entrer dans le classement. <br><br>
-           Chaque bonne réponse vous fait gagner 1000 points, chaque mauvaise réponse vous fait perdre 750 points. Si vous cliquez sur "Je ne sais pas" vous ne perdrez pas de point. Pour pouvoir départager 2 concurrents qui obtiendraient le même nombre de bonnes réponses, vous obtiendrez 1 point par seconde restante (si vous arrivez à finir dans les temps).</p>
+           Chaque bonne réponse vous fait gagner 1000 points, chaque mauvaise réponse vous fait perdre 500 points. Si vous cliquez sur "Je ne sais pas" vous ne perdrez pas de point. Pour pouvoir départager 2 concurrents qui obtiendraient le même nombre de bonnes réponses, vous obtiendrez 1 point par seconde restante (si vous arrivez à finir dans les temps).</p>
         <button class="buttonprin" onclick="startQuiz()">Commencer le QCM</button>
         <button class="buttonprin" onclick="classement()">Voir le classement</button>
         <button class="buttonprin" onclick="menuprin()">Retourner à l'accueil</button>
@@ -493,7 +493,7 @@
             const scoreElement = document.getElementById("score");
             const recapElement = document.getElementById("recap");
             if (scoreElement) {
-                scorefin = (bonnerep * 1000) - (mauvaiserep * 750) + tempsrestant;
+                scorefin = (bonnerep * 1000) - (mauvaiserep * 500) + tempsrestant;
                 verifierClassement(scorefin);
                 scoreElement.innerHTML = `QCM terminé ! Vous avez ${bonnerep} bonne(s) réponse(s). Votre score final est de ${scorefin} point(s)`;
                 scoreElement.style.marginTop = "30px";
