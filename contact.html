@@ -142,6 +142,7 @@
         }
 
         #message-envoyer {
+            display: none;
             margin-top: 150px;
         }
 
@@ -239,18 +240,22 @@
         }
 
         function startIRA(){
+            document.getElementById("message-envoyer").style.display = "none";
             window.location.href = 'qcmIRA.html'; 
         }
 
         function startaccueil(){
+            document.getElementById("message-envoyer").style.display = "none";
             window.location.href = 'index.html'
         }
 
         function startadmin(){
+            document.getElementById("message-envoyer").style.display = "none";
             window.location.href = 'connexion.html'; 
         }
 
         function startTOEIC(){
+            document.getElementById("message-envoyer").style.display = "none";
             window.location.href = 'qcmTOEIC.html'; 
         }
 
