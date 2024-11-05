@@ -275,7 +275,7 @@
         const response = await fetch('https://me383.github.io/Testify/classementIRA.json');
         if (response.ok) {
             const classementIRA = await response.json();
-            afficherClassement(classementIRA);
+            afficherClassement(classementIRAenre);
         } else {
             console.error("Erreur lors du chargement du classement");
         }
