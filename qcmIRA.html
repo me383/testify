@@ -516,10 +516,10 @@
         //On vérifie si la personne fait un score du TOP 10 du classement
         function verifierClassement(scorefin) {
             // Charger ou initialiser le classement avec 10 entrées par défaut
-            let classementIRA = JSON.parse(localStorage.getItem("classementIRA")) || Array.from({ length: 10 }, () => ({ nom: "", score: 0 }));
+            let classementIRAenre = JSON.parse(localStorage.getItem("classementIRA")) || Array.from({ length: 10 }, () => ({ nom: "", score: 0 }));
             
             // Vérifie si le score est suffisant pour entrer dans le top 10
-            const minScore = classementIRA[9].score;
+            const minScore = classementIRAenre[9].score;
             if (scorefin > minScore) {
                 document.getElementById("nom-input").style.display = "block";
             }
@@ -529,7 +529,7 @@
             const nomElement = document.getElementById("nom");
             const nom = document.getElementById("nom").value;
             if (nom) {
-            let classementIRA = JSON.parse(localStorage.getItem("classementIRA")) || Array.from({ length: 10 }, () => ({ nom: "", score: 0 }));
+            let classementIRAenre = JSON.parse(localStorage.getItem("classementIRAenre")) || Array.from({ length: 10 }, () => ({ nom: "", score: 0 }));
             // Ajoute le nouveau score dans le classement
             classementIRA.push({ nom: nom, score: scorefin });
             // Trie le classement en ordre décroissant et garde les 10 meilleurs scores
@@ -537,7 +537,7 @@
             classementIRA = classementIRA.slice(0, 10);
         
             // Enregistre le classement mis à jour dans le localStorage
-            localStorage.setItem("classementIRA", JSON.stringify(classementIRA));
+            localStorage.setItem("classementIRAenre", JSON.stringify(classementIRAenre));
 
             // Masque le champ de saisie après validation et réinitialise le champ
             document.getElementById("nom-input").style.display = "none";
